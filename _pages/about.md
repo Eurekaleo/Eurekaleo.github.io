@@ -20,72 +20,63 @@ redirect_from:
 # Welcome! 
 I am now an incoming PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **National University of Singapore** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Human-centered AI, Large Language Model and Human-level Reasoning.**
+My research interest includes **Human-centered AI, Vision and Language, Multimodal Large Language Model.**
 
 I am currently exploring new collaboration opportunities, if you are interested in the topics mentioned above, please feel free to reaching out through **mluo@u.nus.edu**
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉🎉New Paper on Aspect-based Sentiment Analysis Accepted by ACM MM 2024 Oral paper.
-- *2024.02*: &nbsp;🎉🎉🎉New Paper on Aspect-based Sentiment Analysis Accepted by ACM MM 2024 Oral paper.
-- *2024.02*: &nbsp;🎉🎉🎉New Paper on Aspect-based Sentiment Analysis Accepted by ACM MM 2024 Oral paper.
+- *2024.09*: &nbsp;One paper on Mllm Benchmarks Survey is now available on arXiv.
+- **A Survey on Benchmarks of Multimodal Large Language Models**
+- *2024.08*: &nbsp;🎉🎉🎉One paper on Hallucination Combating accepted by ACM MM Workshop 2024 (**oral**).
+- **Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM**
+- *2024.07*: &nbsp;🎉🎉🎉One paper on Aspect-based Sentiment Analysis accepted by ACM MM 2024 (**oral**).
+- **PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis**
+- *2024.03*: &nbsp;🎉🎉🎉One Paper on Multimodal Emotion-Cause Analysis in Conversations accepted by SemEval-2024 (**2nd Place**).
+- **NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations**
+- *2022.06*  &nbsp;🎉🎉🎉One Paper on Privacy Preserving accepted by TDSC.
+- **Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation**
   
 # 📝 Publications 
 - 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
+[A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://www.arxiv.org/pdf/2408.09481)
 
-**Ming Zhan**, Jingjing Fan, Jianying Guo
+**Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
-- IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
-</div>
-</div>
+[**Project**](https://panosent.github.io/) | <strong>CCF-A Conference Paper</strong>
 
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2023</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SemEval-2024</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on two-stage semi-active ISD suspension based on improved fuzzy neural network PID control](https://www.mdpi.com/1424-8220/23/20/8388)
+[NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf)
 
-Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
+**Meng Luo**, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, Hao Fei
 
-[**Project**](https://www.mdpi.com/1424-8220/23/20/8388) | <strong>SCI Journal Paper</strong>
-- Sensors 23, no. 20: 8388. https://doi.org/10.3390/s23208388.
-</div>
-</div>
+[**Project**](https://www.mdpi.com/1424-8220/23/20/8388](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf) | <strong> SemEval@ACL (Challenge, 2nd Place) 2024</strong>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTETS 2023</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short)
+[Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation](https://ieeexplore.ieee.org/abstract/document/9796594/)
 
- **Ming Zhan**, Jingjing Fan, Linhao Jin
+Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 
-[**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short) | <strong>EI International Conference</strong>
-- Proc. SPIE 13064, Seventh International Conference on Traffic Engineering and Transportation System (ICTETS 2023), 130643A (20 February 2024); https://doi.org/10.1117/12.3015773.
-</div>
-</div>
+[**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>CCF-A Journal Paper</strong>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCIR 2023</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter](https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short)
+[A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)
 
-Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
+Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
 
-[**Project**](https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short) | <strong>EI International Conference</strong>
-- Proc. SPIE 12940, Third International Conference on Control and Intelligent Robotics (ICCIR 2023), 129401G (1 December 2023); https://doi.org/10.1117/12.3010611.
-</div>
-</div>
+[**Project**](https://arxiv.org/abs/2408.08632) | <strong>arxiv</strong>
 
 # 🎖 Honors and Awards
 - *2024.06* xxxxx (Top 1%)

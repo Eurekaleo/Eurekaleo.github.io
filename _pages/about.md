@@ -40,7 +40,7 @@ I am currently exploring new collaboration opportunities, if you are interested 
 # 📝 Publications 
 - 🎓During My Master's Research Program
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 [A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://www.arxiv.org/pdf/2408.09481)
@@ -51,7 +51,7 @@ I am currently exploring new collaboration opportunities, if you are interested 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SemEval</div><img src='../images/nus-emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf)
@@ -62,7 +62,7 @@ I am currently exploring new collaboration opportunities, if you are interested 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC</div><img src='../images/TDSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation](https://ieeexplore.ieee.org/abstract/document/9796594/)
@@ -73,7 +73,7 @@ Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)

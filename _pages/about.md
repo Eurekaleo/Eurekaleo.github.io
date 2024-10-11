@@ -68,7 +68,6 @@ Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 
 [**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>CCF-A Journal Paper</strong>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCIR 2023</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,17 +77,13 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 
 [**Project**](https://arxiv.org/abs/2408.08632) | <strong>arxiv</strong>
 
+# 💻 Professional Activity
+Reviewer for ICLR, ACM MM, Neurocomputing, TOMM, TALLIP.
+
 # 🎖 Honors and Awards
 - *2024.06* xxxxx (Top 1%)
-- *2023.10* xxxxxx
-
 
 # 💻 Experience
-- 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
 
 ------
 

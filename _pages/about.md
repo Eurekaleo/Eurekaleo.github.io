@@ -44,7 +44,7 @@ I am currently exploring new collaboration opportunities, if you are interested 
   <div class='paper-box-image'>
     <div>
       <div class="badge">MM 2024</div>
-      <img src='../images/paper1.png' alt="sym" width="100%">
+      <img src='../images/panosent.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -91,7 +91,7 @@ I am currently exploring new collaboration opportunities, if you are interested 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCIR 2023</div>
+      <div class="badge">arxiv</div>
       <img src='../images/paper4.png' alt="sym" width="100%">
     </div>
   </div>

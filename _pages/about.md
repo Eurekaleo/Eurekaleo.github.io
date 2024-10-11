@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **National University of Singapore** and bachelor degree from **Wuhan University**.
+I am now an incoming PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
 My research interest includes **Human-centered AI, Vision and Language, Multimodal Large Language Model.**
 
@@ -26,16 +26,21 @@ I am currently exploring new collaboration opportunities, if you are interested 
 
 
 # 🔥 News
-- *2024.09*: &nbsp;One paper on Mllm Benchmarks Survey is now available on arXiv.
-- **A Survey on Benchmarks of Multimodal Large Language Models**
-- *2024.08*: &nbsp;🎉🎉🎉One paper on Hallucination Combating accepted by ACM MM Workshop 2024 (**oral**).
-- **Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM**
-- *2024.07*: &nbsp;🎉🎉🎉One paper on Aspect-based Sentiment Analysis accepted by ACM MM 2024 (**oral**).
-- **PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis**
-- *2024.03*: &nbsp;🎉🎉🎉One Paper on Multimodal Emotion-Cause Analysis in Conversations accepted by SemEval-2024 (**2nd Place**).
-- **NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations**
-- *2022.06*  &nbsp;🎉🎉🎉One Paper on Privacy Preserving accepted by TDSC.
-- **Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation**
+
+- **2024.09**: &nbsp;**New Paper Published on arxiv**  
+  <u>A Survey on Benchmarks of Multimodal Large Language Models</u>.
+
+- **2024.08**: &nbsp;🎉 **Accepted at ACM MM Workshop 2024 (Oral Presentation)**:  
+  <u>Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM</u>.
+
+- **2024.07**: &nbsp;🎉 **Accepted at ACM MM 2024 (Oral Presentation)**:  
+  <u>PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis</u>.
+
+- **2024.03**: &nbsp;🎉 **2nd Place at SemEval-2024**:  
+  <u>NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations</u>.
+
+- **2022.06**: &nbsp;🎉 **Published in TDSC**:  
+  <u>Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation</u>.
   
 # 📝 Publications 
 - 🎓During My Master's Research Program

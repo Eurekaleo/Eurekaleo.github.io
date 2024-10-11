@@ -40,68 +40,48 @@ I am currently exploring new collaboration opportunities, if you are interested 
 # 📝 Publications 
 - 🎓During My Master's Research Program
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">MM 2024</div>
-      <img src='../images/panosent.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://www.arxiv.org/pdf/2408.09481)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+    
+[A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://www.arxiv.org/pdf/2408.09481)
 
-    **Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
+**Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
 
-    [**Project**](https://panosent.github.io/) | <strong>CCF-A Conference Paper</strong>
-  </div>
+[**Project**](https://panosent.github.io/) | <strong>CCF-A Conference Paper</strong>
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">SemEval-2024</div>
-      <img src='../images/paper2.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf)
 
-    **Meng Luo**, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, Hao Fei
+**Meng Luo**, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, Hao Fei
 
-    [**Project**](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf) | <strong> SemEval@ACL (Challenge, 2nd Place) 2024</strong>
-  </div>
+[**Project**](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf) | <strong> SemEval@ACL (Challenge, 2nd Place) 2024</strong>
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TDSC</div>
-      <img src='../images/paper3.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation](https://ieeexplore.ieee.org/abstract/document/9796594/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation](https://ieeexplore.ieee.org/abstract/document/9796594/)
 
-    Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
+Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 
-    [**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>CCF-A Journal Paper</strong>
-  </div>
+[**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>CCF-A Journal Paper</strong>
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arxiv</div>
-      <img src='../images/paper4.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)
 
-    Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
+Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
 
-    [**Project**](https://arxiv.org/abs/2408.08632) | <strong>arxiv</strong>
-  </div>
+[**Project**](https://arxiv.org/abs/2408.08632) | <strong>arxiv</strong>
+</div>
 </div>
 
 # 💻 Professional Activity

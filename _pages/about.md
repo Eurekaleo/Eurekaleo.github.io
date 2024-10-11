@@ -26,20 +26,22 @@ I am currently exploring new collaboration opportunities, if you are interested 
 
 
 # 🔥 News
+- **2024.10**: &nbsp;**New Paper Published on arxiv**  
+  <u>PAD: Personalized Alignment at Decoding-Time</u>.
 
 - **2024.09**: &nbsp;**New Paper Published on arxiv**  
   <u>A Survey on Benchmarks of Multimodal Large Language Models</u>.
 
-- **2024.08**: &nbsp;🎉 **Accepted at ACM MM Workshop 2024 (Oral Presentation)**:  
+- **2024.08**: &nbsp;🎉 **Accepted at ACM MM Workshop 2024 (Oral)**:  
   <u>Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM</u>.
 
-- **2024.07**: &nbsp;🎉 **Accepted at ACM MM 2024 (Oral Presentation)**:  
+- **2024.07**: &nbsp;🎉 **Accepted at ACM MM 2024 (Oral)**:  
   <u>PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis</u>.
 
 - **2024.03**: &nbsp;🎉 **2nd Place at SemEval-2024**:  
   <u>NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations</u>.
 
-- **2022.06**: &nbsp;🎉 **Published in TDSC**:  
+- **2022.06**: &nbsp;**Accepted at TDSC**:  
   <u>Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation</u>.
   
 # 📝 Publications 

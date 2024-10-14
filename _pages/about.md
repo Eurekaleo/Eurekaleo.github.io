@@ -91,11 +91,22 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[PAD: PERSONALIZED ALIGNMENT AT DECODING-TIME](https://arxiv.org/pdf/2410.04070)
+
+Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
+
+[**Project**](https://arxiv.org/pdf/2410.04070) | <strong>arxiv</strong>
+</div>
+</div>
+
 # 💻 Professional Activity
 Reviewer for ICLR, ACM MM, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
-- *2024.06* xxxxx (Top 1%)
+- *2023.06* xxxxx (Top 5%)
 
 # 💻 Experience
 

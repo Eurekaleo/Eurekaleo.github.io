@@ -27,6 +27,9 @@ I am currently exploring new collaboration opportunities, if you are interested 
 
 # 🔥 News
 - **2024.10**: &nbsp;**New Paper Published on arxiv**  
+  <u>Effi-Code: Unleashing Code Efficiency in Language Models</u>.
+  
+- **2024.10**: &nbsp;**New Paper Published on arxiv**  
   <u>PAD: Personalized Alignment at Decoding-Time</u>.
 
 - **2024.09**: &nbsp;**New Paper Published on arxiv**  
@@ -94,11 +97,22 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[PAD: PERSONALIZED ALIGNMENT AT DECODING-TIME](https://arxiv.org/pdf/2410.04070)
+[PAD: Personalized Alignment at Decoding-Time](https://arxiv.org/pdf/2410.04070)
 
 Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
 
 [**Project**](https://arxiv.org/pdf/2410.04070) | <strong>arxiv</strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/efficode.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Effi-Code: Unleashing Code Efficiency in Language Models](https://arxiv.org/pdf/2410.10209v1)
+
+Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang
+
+[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>arxiv</strong>
 </div>
 </div>
 

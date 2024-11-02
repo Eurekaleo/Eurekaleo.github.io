@@ -35,7 +35,7 @@ I am currently exploring new collaboration opportunities, if you are interested 
 - **2024.09**: &nbsp;**New Paper Published on arxiv**  
   <u>A Survey on Benchmarks of Multimodal Large Language Models</u>.
 
-- **2024.08**: &nbsp;🎉 **Accepted at ACM MM Workshop 2024 (Oral)**:  
+- **2024.08**: &nbsp;🎉 **Accepted at ACM MM Workshop (MIS24) (Oral, Best Paper Award)**:  
   <u>Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM</u>.
 
 - **2024.07**: &nbsp;🎉 **Accepted at ACM MM 2024 (Oral)**:  

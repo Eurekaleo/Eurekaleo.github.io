@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee, Prof. Wynne Hsu and Dr. Hao Fei at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
+I am now a PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee, Prof. Wynne Hsu and Dr. Hao Fei at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
 My research interest includes **Human-centered AI, Vision and Language, Multimodal Large Language Model.**
 

@@ -120,12 +120,12 @@ Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Hemin
 Reviewer for ICLR, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
-- *2023.06* xxxxx (Top 5%)
+- To be updated.
 
 # 💻 Experience
 
 ------
 
 <p align="center">
-  <i> 怎么先炽热的却先变冷了，慢热的却停不了还在沸腾着 </i>
+  <i> Wisdom begins in wonder. </i>
 </p>

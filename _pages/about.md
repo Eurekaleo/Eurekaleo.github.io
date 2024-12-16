@@ -121,11 +121,13 @@ Reviewer for ICLR, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**
+
 #### **Academic Achievements**
 - 2022: Huawei Scholarship, Wuhan University (Top 5%)
 - 2021: First-class Excellence Scholarship, Wuhan University (Ranked 2nd)
 - 2021: Merit Student, Wuhan University (Top 10%)
 - 2021: Outstanding Student, Wuhan University
+  
 #### **Competitions and Recognitions**
 - 2022: Silver Award, Hubei Challenge Cup, Wuhan University
 - 2022: Gold Award, Ziqiang Cup College, Wuhan University
@@ -134,14 +136,14 @@ Reviewer for ICLR, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 - 2021: Bronze Award, 'Internet +', Department of Education of Hubei Province
 - 2019: Top 10 Book Ambassador, Wuhan University Library
 - 2018: The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP
+  
 #### **Leadership and Social Activities**
 - 2021: Chairman, Wuhan University Campus Ambassador, ByteDance
 - 2021: Excellent Campus Ambassador, WePie Team
+- 2021: Online Course on Interdisciplinary Communication, University of Cambridge
 - 2020: Vice President, Data Science Society, Wuhan University
 - 2020: Deputy Head, Voluntary Service Department, Wuhan University
 - 2019: Chief Editor, Media Convergence Center, Wuhan University
-#### **International Experiences**
-- 2021: Online Course on Interdisciplinary Communication and Research, University of Cambridge
 
 ------
 

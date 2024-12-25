@@ -72,6 +72,17 @@ I am currently exploring new collaboration opportunities, if you are interested 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM Workshop</div><img src='../images/mmworkshop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)
+
+Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
+
+[**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong> Workshop@MM 2024</strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC</div><img src='../images/TDSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   

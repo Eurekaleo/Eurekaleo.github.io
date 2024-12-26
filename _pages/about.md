@@ -26,6 +26,9 @@ I am currently exploring new collaboration opportunities, if you are interested 
 
 
 # 🔥 News
+- **2024.12**: &nbsp;**New Paper Published on arxiv**  
+  <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
+
 - **2024.10**: &nbsp;**New Paper Published on arxiv**  
   <u>Effi-Code: Unleashing Code Efficiency in Language Models</u>.
   
@@ -91,6 +94,17 @@ Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
 Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 
 [**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>CCF-A Journal Paper</strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/Aristotle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/pdf/2412.16953)
+
+Jundong Xu, Hao Fei, **Meng Luo**, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
+
+[**Project**](https://github.com/Aiden0526/Aristotle) | <strong>arxiv</strong>
 </div>
 </div>
 

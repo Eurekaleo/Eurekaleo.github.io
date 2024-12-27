@@ -173,5 +173,5 @@ Reviewer for ICLR, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 ------
 
 <p align="center">
-  <i> Wisdom begins in wonder. </i>
+  <i> Wisdom begins in wonder.   网罗天下，广结同盟。</i>
 </p>

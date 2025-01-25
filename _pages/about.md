@@ -26,14 +26,14 @@ I am currently exploring new collaboration opportunities, if you are interested 
 
 
 # 🔥 News
+- **2025.01**: &nbsp;**Accepted at ICLR 2025**  
+  <u>PAD: Personalized Alignment at Decoding-Time</u>.
+  
 - **2024.12**: &nbsp;**New Paper Published on arxiv**  
   <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
 
 - **2024.10**: &nbsp;**New Paper Published on arxiv**  
   <u>Effi-Code: Unleashing Code Efficiency in Language Models</u>.
-  
-- **2024.10**: &nbsp;**New Paper Published on arxiv**  
-  <u>PAD: Personalized Alignment at Decoding-Time</u>.
 
 - **2024.09**: &nbsp;**New Paper Published on arxiv**  
   <u>A Survey on Benchmarks of Multimodal Large Language Models</u>.
@@ -61,6 +61,17 @@ I am currently exploring new collaboration opportunities, if you are interested 
 **Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
 
 [**Project**](https://panosent.github.io/) | <strong>CCF-A Conference Paper</strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[PAD: Personalized Alignment at Decoding-Time](https://arxiv.org/pdf/2410.04070)
+
+Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
+
+[**Project**](https://arxiv.org/pdf/2410.04070) | <strong>CCF-A Conference Paper</strong>
 </div>
 </div>
 
@@ -119,17 +130,6 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[PAD: Personalized Alignment at Decoding-Time](https://arxiv.org/pdf/2410.04070)
-
-Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
-
-[**Project**](https://arxiv.org/pdf/2410.04070) | <strong>arxiv</strong>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/efficode.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -142,7 +142,7 @@ Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Hemin
 </div>
 
 # 💻 Professional Activity
-Reviewer for ICLR, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
+Reviewer for ICLR, ICML, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

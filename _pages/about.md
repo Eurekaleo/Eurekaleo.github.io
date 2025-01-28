@@ -24,10 +24,12 @@ My research interest includes **Human-centered AI, Vision and Language, Multimod
 
 I am currently exploring new collaboration opportunities, if you are interested in the topics mentioned above, please feel free to reaching out through **mluo@u.nus.edu**
 
-
 # 🔥 News
 - **2025.01**: &nbsp;**Accepted at ICLR 2025**  
   <u>PAD: Personalized Alignment at Decoding-Time</u>.
+  
+- **2025.01**: &nbsp;**Accepted at WWW 2025**  
+  <u>Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark</u>.
   
 - **2024.12**: &nbsp;**New Paper Published on arxiv**  
   <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
@@ -50,7 +52,9 @@ I am currently exploring new collaboration opportunities, if you are interested 
 - **2022.06**: &nbsp;**Accepted at TDSC**:  
   <u>Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation</u>.
   
-# 📝 Publications 
+# 📝 Publications
+- 🎓During My PhD's Research Program
+
 - 🎓During My Master's Research Program
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>

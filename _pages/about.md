@@ -79,6 +79,17 @@ Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW</div><img src='../images/MERG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark](https://openreview.net/pdf?id=36Qk76s74U)
+
+Han Zhang, Zixiang Meng, **Meng Luo**, Hong Han, Lizi Liao, Erik Cambria, Hao Fei
+
+[**Project**](https://openreview.net/pdf?id=36Qk76s74U) | <strong>CCF-A Conference Paper</strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SemEval</div><img src='../images/nus-emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   

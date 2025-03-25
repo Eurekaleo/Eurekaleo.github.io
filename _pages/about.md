@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee, Prof. Wynne Hsu and Dr. Hao Fei at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
+I am now a PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Human-centered AI, Vision and Language, Multimodal Large Language Model.**
+My research interest includes **Human-centered AI, Vision and Language, Multiomodal Sentiment Analysis, MLLM Reasoning.**
 
-I am currently exploring new collaboration opportunities, if you are interested in the topics mentioned above, please feel free to reaching out through **mluo@u.nus.edu**
+I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
 - **2025.01**: &nbsp;🎉 **Accepted at ICLR 2025**  
@@ -157,7 +157,7 @@ Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Hemin
 </div>
 
 # 💻 Professional Activity
-Reviewer for ICLR, ICML, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
+Reviewer for ICLR, ICML, ACM MM, WWW, ACL, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**
@@ -173,17 +173,13 @@ Reviewer for ICLR, ICML, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 - 2022: Gold Award, Ziqiang Cup College, Wuhan University
 - 2021: National First Prize, Citi Cup Financial Innovation Application Contest
 - 2021: Bole Award, ByteTop Summit Project, ByteDance
-- 2021: Bronze Award, 'Internet +', Department of Education of Hubei Province
 - 2019: Top 10 Book Ambassador, Wuhan University Library
 - 2018: The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP
-  
+
 #### **Leadership and Social Activities**
 - 2021: Chairman, Wuhan University Campus Ambassador, ByteDance
 - 2021: Excellent Campus Ambassador, WePie Team
 - 2021: Online Course on Interdisciplinary Communication, University of Cambridge
-- 2020: Vice President, Data Science Society, Wuhan University
-- 2020: Deputy Head, Voluntary Service Department, Wuhan University
-- 2019: Chief Editor, Media Convergence Center, Wuhan University
 
 ------
 

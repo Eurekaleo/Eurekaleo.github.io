@@ -26,7 +26,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
 
 # 🔥 News
 - **2025.04**: &nbsp;**Co-organizing a Workshop at ACM MM 2025** <br>
-  <u>The 1st ognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop</u>.
+  <u>The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop</u>.
 
 - **2025.04**: &nbsp;**Co-organizing a Grand Challenge at ACM MM 2025** <br>
   <u>Multimodal Conversational Aspect-based Sentiment Analysis (MCABSA 2025)</u>.

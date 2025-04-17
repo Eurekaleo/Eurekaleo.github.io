@@ -163,7 +163,7 @@ Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Hemin
 </div>
 
 # 💻 Professional Activity
-Reviewer for ICLR, ICML, ACM MM, WWW, ACL, Neurocomputing, TOMM, TALLIP.
+Reviewer for NeurIPS, ICLR, ICML, ICCV, ACL, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

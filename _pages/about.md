@@ -69,6 +69,18 @@ I am currently exploring new collaboration opportunities. If you are interested 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
+[VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models]
+(https://arxiv.org/pdf/2504.13122)
+
+Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei
+
+[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>arxiv</strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+    
 [PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://www.arxiv.org/pdf/2408.09481)
 
 **Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu

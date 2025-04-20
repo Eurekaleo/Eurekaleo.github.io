@@ -25,6 +25,9 @@ My research interest includes **Human-centered AI, Vision and Language, Multiomo
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2025.04**: &nbsp;**New Paper Published on arxiv** <br>
+  <u>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</u>.
+
 - **2025.04**: &nbsp;**Co-organizing a Workshop at ACM MM 2025** <br>
   <u>The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop</u>.
 

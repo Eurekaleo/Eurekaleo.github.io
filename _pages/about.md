@@ -66,11 +66,10 @@ I am currently exploring new collaboration opportunities. If you are interested 
 
 - 🎓During My Master's Research Program
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/vistadpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-    
-[VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models]
-(https://arxiv.org/pdf/2504.13122)
+  
+[VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models](https://arxiv.org/pdf/2504.13122)
 
 Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei
 

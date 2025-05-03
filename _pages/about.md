@@ -25,13 +25,13 @@ My research interest includes **Human-centered AI, Vision and Language, Multiomo
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
-- **2025.04**: &nbsp;🎉 **Accepted at ICML 2025 (Spotlight)** <br>
+- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025 (Spotlight)** <br>
   <u>On Path to Multimodal Generalist: Levels and Benchmarks</u>.
   
-- **2025.04**: &nbsp;🎉 **Accepted at ICML 2025** <br>
+- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025** <br>
   <u>SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning</u>.
   
-- **2025.04**: &nbsp;🎉 **Accepted at ICML 2025** <br>
+- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025** <br>
   <u>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</u>.
 
 - **2025.04**: &nbsp;**Co-organizing a Workshop at ACM MM 2025** <br>

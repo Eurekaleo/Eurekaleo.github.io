@@ -25,7 +25,13 @@ My research interest includes **Human-centered AI, Vision and Language, Multiomo
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
-- **2025.04**: &nbsp;**New Paper Published on arxiv** <br>
+- **2025.04**: &nbsp;**Accepted at ICML 2025 (Spotlight)** <br>
+  <u>On Path to Multimodal Generalist: Levels and Benchmarks</u>.
+  
+- **2025.04**: &nbsp;**Accepted at ICML 2025** <br>
+  <u>SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning</u>.
+  
+- **2025.04**: &nbsp;**Accepted at ICML 2025** <br>
   <u>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</u>.
 
 - **2025.04**: &nbsp;**Co-organizing a Workshop at ACM MM 2025** <br>
@@ -42,9 +48,6 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 - **2024.12**: &nbsp;**New Paper Published on arxiv**  
   <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
-
-- **2024.10**: &nbsp;**New Paper Published on arxiv**  
-  <u>Effi-Code: Unleashing Code Efficiency in Language Models</u>.
 
 - **2024.09**: &nbsp;**New Paper Published on arxiv**  
   <u>A Survey on Benchmarks of Multimodal Large Language Models</u>.
@@ -64,18 +67,18 @@ I am currently exploring new collaboration opportunities. If you are interested 
 # 📝 Publications
 - 🎓During My PhD's Research Program
 
-- 🎓During My Master's Research Program
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/vistadpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/vistadpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models](https://arxiv.org/pdf/2504.13122)
 
 Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei
 
-[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>arxiv</strong>
+[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>CCF-A Conference Paper</strong>
 </div>
 </div>
+
+- 🎓During My Master's Research Program
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -168,7 +171,7 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/efficode.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Effi-Code: Unleashing Code Efficiency in Language Models](https://arxiv.org/pdf/2410.10209v1)
+[SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning](https://arxiv.org/pdf/2410.10209v1)
 
 Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang
 

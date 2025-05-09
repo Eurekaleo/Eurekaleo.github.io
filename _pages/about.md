@@ -109,7 +109,7 @@ Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, H
 
 Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang
 
-[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>ICML</strong>
+[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>CCF-A Conference Paper</strong>
 </div>
 </div>
 

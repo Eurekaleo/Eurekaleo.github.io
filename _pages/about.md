@@ -67,6 +67,17 @@ I am currently exploring new collaboration opportunities. If you are interested 
 # 📝 Publications
 - 🎓During My PhD's Research Program
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/generalist.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/pdf/2505.04620)
+
+Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, ..., **Meng Luo**, Jiebo Luo, Tat‑Seng Chua, Hanwang Zhang, Shuicheng Yan
+
+[**Project**](https://generalist.top/) | <strong>CCF-A Conference Paper</strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/vistadpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -90,6 +101,18 @@ Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, H
 [**Project**](https://panosent.github.io/) | <strong>CCF-A Conference Paper</strong>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/efficode.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning](https://arxiv.org/pdf/2410.10209v1)
+
+Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang
+
+[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>ICML</strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -165,17 +188,6 @@ Jundong Xu, Hao Fei, **Meng Luo**, Qian Liu, Liangming Pan, William Yang Wang, P
 Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
 
 [**Project**](https://arxiv.org/abs/2408.08632) | <strong>arxiv</strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/efficode.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning](https://arxiv.org/pdf/2410.10209v1)
-
-Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang
-
-[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>arxiv</strong>
 </div>
 </div>
 

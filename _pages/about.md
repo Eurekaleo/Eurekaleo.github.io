@@ -74,7 +74,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
 
 Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, ..., **Meng Luo**, Jiebo Luo, Tatâ€‘Seng Chua, Hanwang Zhang, Shuicheng Yan
 
-[**Project**](https://generalist.top/) | <strong>CCF-A Conference Paper</strong>
+[**Project**](https://generalist.top/) | <strong>ICML (Spotlight)</strong>
 </div>
 </div>
 
@@ -85,7 +85,7 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, ..., **Meng Luo**, Jiebo Luo, Tatâ
 
 Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei
 
-[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>ICML (Spotlight)</strong>
+[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>ICML</strong>
 </div>
 </div>
 
@@ -154,7 +154,7 @@ Han Zhang, Zixiang Meng, **Meng Luo**, Hong Han, Lizi Liao, Erik Cambria, Hao Fe
 
 Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong> Workshop@MM 2nd</strong>
+[**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong>Workshop@MM</strong>
 </div>
 </div>
 

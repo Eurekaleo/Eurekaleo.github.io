@@ -25,6 +25,9 @@ My research interest includes **Video Understanding, Video Generation, Multimoda
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2025.05**: &nbsp;🎉 **Accepted at ACL 2025**  
+  <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
+  
 - **2025.05**: &nbsp;🎉 **Accepted at ICML 2025 (Spotlight)** <br>
   <u>On Path to Multimodal Generalist: Levels and Benchmarks</u>.
   
@@ -45,9 +48,6 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 - **2025.01**: &nbsp;🎉 **Accepted at WWW 2025**  
   <u>Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark</u>.
-  
-- **2024.12**: &nbsp;**New Paper Published on arxiv**  
-  <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
 
 - **2024.09**: &nbsp;**New Paper Published on arxiv**  
   <u>A Survey on Benchmarks of Multimodal Large Language Models</u>.
@@ -89,6 +89,17 @@ Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, H
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL</div><img src='../images/Aristotle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/pdf/2412.16953)
+
+Jundong Xu, Hao Fei, **Meng Luo**, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
+
+[**Project**](https://github.com/Aiden0526/Aristotle) | <strong>ACL</strong>
+</div>
+</div>
+
 - 🎓During My Master's Research Program
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='../images/panosent.png' alt="sym" width="100%"></div></div>
@@ -112,7 +123,6 @@ Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Hemin
 [**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>ICML</strong>
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -166,17 +176,6 @@ Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
 Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 
 [**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>TDSC</strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/Aristotle.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/pdf/2412.16953)
-
-Jundong Xu, Hao Fei, **Meng Luo**, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
-
-[**Project**](https://github.com/Aiden0526/Aristotle) | <strong>arxiv</strong>
 </div>
 </div>
 

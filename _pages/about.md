@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now a PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Human-centered AI, Vision and Language, Multiomodal Sentiment Analysis, MLLM Reasoning.**
+My research interest includes **Video Understanding, Video Generation, Multimodal Large Language Model.**
 
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
@@ -85,7 +85,7 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, ..., **Meng Luo**, Jiebo Luo, Tatâ
 
 Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei
 
-[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>CCF-A Conference Paper</strong>
+[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>ICML (Spotlight)</strong>
 </div>
 </div>
 
@@ -98,7 +98,7 @@ Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, H
 
 **Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://panosent.github.io/) | <strong>CCF-A Conference Paper</strong>
+[**Project**](https://panosent.github.io/) | <strong>ACM MM (Oral)</strong>
 </div>
 </div>
 
@@ -109,7 +109,7 @@ Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, H
 
 Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang
 
-[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>CCF-A Conference Paper</strong>
+[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>ICML</strong>
 </div>
 </div>
 
@@ -121,7 +121,7 @@ Dong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Hemin
 
 Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
 
-[**Project**](https://arxiv.org/pdf/2410.04070) | <strong>CCF-A Conference Paper</strong>
+[**Project**](https://arxiv.org/pdf/2410.04070) | <strong>ICLR</strong>
 </div>
 </div>
 
@@ -132,7 +132,7 @@ Ruizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu
 
 Han Zhang, Zixiang Meng, **Meng Luo**, Hong Han, Lizi Liao, Erik Cambria, Hao Fei
 
-[**Project**](https://openreview.net/pdf?id=36Qk76s74U) | <strong>CCF-A Conference Paper</strong>
+[**Project**](https://openreview.net/pdf?id=36Qk76s74U) | <strong>WWW</strong>
 </div>
 </div>
 
@@ -154,7 +154,7 @@ Han Zhang, Zixiang Meng, **Meng Luo**, Hong Han, Lizi Liao, Erik Cambria, Hao Fe
 
 Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong> Workshop@MM 2024</strong>
+[**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong> Workshop@MM 2nd</strong>
 </div>
 </div>
 
@@ -165,7 +165,7 @@ Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
 
 Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
 
-[**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>CCF-A Journal Paper</strong>
+[**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>TDSC</strong>
 </div>
 </div>
 

@@ -28,20 +28,20 @@ I am currently exploring new collaboration opportunities. If you are interested 
 - **2025.05**: &nbsp;🎉 **Accepted at ACL 2025**  
   <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
   
-- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025 (Spotlight)** <br>
+- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025 (Oral, Spotlight)** <br>
   <u>On Path to Multimodal Generalist: Levels and Benchmarks</u>.
+
+- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025** <br>
+  <u>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</u>.
   
 - **2025.05**: &nbsp;🎉 **Accepted at ICML 2025** <br>
   <u>SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning</u>.
-  
-- **2025.05**: &nbsp;🎉 **Accepted at ICML 2025** <br>
-  <u>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</u>.
-
-- **2025.04**: &nbsp;**Co-organizing a Workshop at ACM MM 2025** <br>
-  <u>The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop</u>.
 
 - **2025.04**: &nbsp;**Co-organizing a Grand Challenge at ACM MM 2025** <br>
   <u>Multimodal Conversational Aspect-based Sentiment Analysis (MCABSA 2025)</u>.
+
+- **2025.04**: &nbsp;**Co-organizing a Workshop at ACM MM 2025** <br>
+  <u>The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop</u>.
   
 - **2025.01**: &nbsp;🎉 **Accepted at ICLR 2025**  
   <u>PAD: Personalized Alignment at Decoding-Time</u>.

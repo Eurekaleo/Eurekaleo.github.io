@@ -20,11 +20,14 @@ redirect_from:
 # Welcome! 
 I am now a PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Video Understanding, Video Generation, Multimodal Large Language Model.**
+My research interest includes **Human-Centered AI, Multimodal Understanding, Multimodal Reasoning.**
 
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2025.06**: &nbsp;**Accepted at ACL 2025 FEVER Workshop**  
+  <u>EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions</u>.
+  
 - **2025.05**: &nbsp;🎉 **Accepted at ACL 2025**  
   <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
   

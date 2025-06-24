@@ -28,7 +28,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
 - **2025.06**: &nbsp;**Accepted at ACL 2025 FEVER Workshop**  
   <u>EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions</u>.
   
-- **2025.05**: &nbsp;🎉 **Accepted at ACL 2025**  
+- **2025.05**: &nbsp;🎉 **Accepted at ACL 2025 (Oral)**  
   <u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.
   
 - **2025.05**: &nbsp;🎉 **Accepted at ICML 2025 (Oral, Spotlight)** <br>

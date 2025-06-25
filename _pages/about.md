@@ -77,7 +77,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
 
 Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, ..., **Meng Luo**, Jiebo Luo, Tat‑Seng Chua, Hanwang Zhang, Shuicheng Yan
 
-[**Project**](https://generalist.top/) | <strong>ICML (Spotlight)</strong>
+[**Project**](https://generalist.top/) | <strong>ICML (Oral, Spotlight)</strong>
 </div>
 </div>
 
@@ -99,7 +99,7 @@ Haojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, H
 
 Jundong Xu, Hao Fei, **Meng Luo**, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://github.com/Aiden0526/Aristotle) | <strong>ACL</strong>
+[**Project**](https://github.com/Aiden0526/Aristotle) | <strong>ACL (Oral)</strong>
 </div>
 </div>
 
@@ -168,17 +168,6 @@ Han Zhang, Zixiang Meng, **Meng Luo**, Hong Han, Lizi Liao, Erik Cambria, Hao Fe
 Hao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu
 
 [**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong>Workshop@MM</strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC</div><img src='../images/TDSC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation](https://ieeexplore.ieee.org/abstract/document/9796594/)
-
-Xiaoyi Pang, Zhibo Wang, Zeqing He, Peng Sun, **Meng Luo**, Ju Ren
-
-[**Project**](https://ieeexplore.ieee.org/abstract/document/9796594/) | <strong>TDSC</strong>
 </div>
 </div>
 

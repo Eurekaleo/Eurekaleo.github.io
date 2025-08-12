@@ -183,7 +183,7 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 
 # 💻 Professional Activity
-Reviewer for NeurIPS, ICLR, ICML, ICCV, ACL, ACM MM, WWW, Neurocomputing, TOMM, TALLIP.
+Reviewer for NeurIPS, ICLR, ICML, ICCV, ACL, ACM MM, AAAI, WWW, Neurocomputing, TOMM, TALLIP.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

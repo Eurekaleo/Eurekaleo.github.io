@@ -25,6 +25,9 @@ My research interest includes **Human-Centered AI, Multimodal Understanding, Mul
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2025.07**: &nbsp;**Accepted at TIFS**  
+  <u>Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules</u>.
+  
 - **2025.06**: &nbsp;**Accepted at ACL 2025 FEVER Workshop**  
   <u>EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions</u>.
   

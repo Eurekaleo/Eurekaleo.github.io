@@ -25,6 +25,9 @@ My research interest includes **Human-Centered AI, Multimodal Understanding, Mul
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2025.07**: &nbsp;**Arxiv**  
+  <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
+
 - **2025.07**: &nbsp;**Accepted at TIFS**  
   <u>Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules</u>.
   

@@ -25,7 +25,7 @@ My research interest includes **Human-Centered AI, Multimodal Understanding, Mul
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
-- **2025.07**: &nbsp;**Arxiv**  
+- **2025.07**: &nbsp;**Preprint on ArXiv**  
   <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
 
 - **2025.07**: &nbsp;**Accepted at TIFS**  
@@ -75,6 +75,17 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://www.arxiv.org/pdf/2509.11866)
+
+**Meng Luo**, Shengqiong Wu, Liqiang Jing, ..., Jiebo Luo, William Yang Wang, Hao Fei, Mong-Li Lee, Wynne Hsu
+
+[**Project**](https://www.arxiv.org/pdf/2509.11866) | <strong>Preprint on ArXiv</strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/generalist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

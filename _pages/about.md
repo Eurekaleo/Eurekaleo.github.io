@@ -26,10 +26,10 @@ I am currently exploring new collaboration opportunities. If you are interested 
 
 # 🔥 News
 - **2025.10**: &nbsp;**Grand Challenge Summary Paper at ACM MM 2025**  
-  <u>[The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3746027.3762091)</u>.**
+  [The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3746027.3762091).
   
 - **2025.10**: &nbsp;**Workshop Summary Paper at ACM MM 2025**  
-  <u>[CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing](https://dl.acm.org/doi/abs/10.1145/3746027.3762243)</u>.
+  [CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing](https://dl.acm.org/doi/abs/10.1145/3746027.3762243).
 
 - **2025.09**: &nbsp;**Preprint on ArXiv**  
   <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.

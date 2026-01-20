@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a PhD student at School of Computing in **National University of Singapore**. Fortunately, I will be supervised by Prof. Mong Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC). Prior to that, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
+I am now a PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
 My research interest includes **Cognition-driven Multimodal Understanding and Reasoning, Multimodal Affective Computing, Video Understanding and Generation.**
 

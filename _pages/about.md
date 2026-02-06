@@ -25,6 +25,9 @@ My research interest includes **Cognition-driven Multimodal Understanding and Re
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2025.05**: &nbsp;🎉 **Accepted at ICLR 2026**  
+  <u>Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning</u>.
+
 - **2025.10**: &nbsp;**Grand Challenge Summary Paper at ACM MM 2025**  
   [The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3746027.3762091).
   
@@ -81,8 +84,19 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning](https://arxiv.org/pdf/2602.00971)
+
+**Meng Luo**, Bobo Li, Shanqing Xu, ..., Hao Fei, Mong-Li Lee, Wynne Hsu
+
+[**Project**](https://arxiv.org/pdf/2602.00971) | <strong>ICLR</strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/hitemotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://www.arxiv.org/pdf/2509.11866)

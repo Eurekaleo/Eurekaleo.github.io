@@ -84,7 +84,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/hitemotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning](https://arxiv.org/pdf/2602.00971)
@@ -96,7 +96,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/hitemotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://www.arxiv.org/pdf/2509.11866)

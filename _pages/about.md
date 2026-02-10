@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/), Dr. [Bobo Li](https://www.libobo.site/) and Dr. [Shengqiong Wu](https://sqwu.top/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Cognition-driven Multimodal Understanding and Reasoning, Multimodal Affective Computing, Video Understanding and Generation.**
+My research interest includes **Cognition-driven Multimodal Understanding, Reasoning and Generation, and Multimodal Affective Computing.**
 
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 

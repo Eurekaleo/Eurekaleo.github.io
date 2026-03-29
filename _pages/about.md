@@ -20,12 +20,15 @@ redirect_from:
 # Welcome! 
 I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/), Dr. [Bobo Li](https://www.libobo.site/) and Dr. [Shengqiong Wu](https://sqwu.top/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Cognition-driven Multimodal Understanding, Reasoning and Generation, and Multimodal Affective Computing.**
+My research interest includes **Cognition-Oriented Multimodal Understanding, Reasoning and Generation, Multimodal Affective Computing, Multimodal Large Language Model.**
 
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
-- **2025.05**: &nbsp;🎉 **Accepted at ICLR 2026**  
+-- **2026.03**: &nbsp;🎉 **Accepted at IJCV**  
+  <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
+
+- **2026.01**: &nbsp;🎉 **Accepted at ICLR 2026**  
   <u>Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning</u>.
 
 - **2025.10**: &nbsp;**Grand Challenge Summary Paper at ACM MM 2025**  
@@ -84,7 +87,7 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/hitemotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/hitemotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning](https://arxiv.org/pdf/2602.00971)
@@ -96,14 +99,14 @@ I am currently exploring new collaboration opportunities. If you are interested 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://www.arxiv.org/pdf/2509.11866)
 
 **Meng Luo**, Shengqiong Wu, Liqiang Jing, ..., Jiebo Luo, William Yang Wang, Hao Fei, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://www.arxiv.org/pdf/2509.11866) | <strong>Preprint on ArXiv</strong>
+[**Project**](https://www.arxiv.org/pdf/2509.11866) | <strong>IJCV</strong>
 </div>
 </div>
 

@@ -25,7 +25,7 @@ My research interest includes **Cognition-Oriented Multimodal Understanding, Rea
 I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
-- **2026.01**: &nbsp;🎉 **Accepted at IJCV**  
+- **2026.03**: &nbsp;🎉 **Accepted at IJCV**  
   <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
 
 - **2026.01**: &nbsp;🎉 **Accepted at ICLR 2026**  

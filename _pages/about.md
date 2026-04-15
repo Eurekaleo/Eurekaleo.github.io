@@ -22,11 +22,14 @@ I am now a computer science PhD student at School of Computing in **National Uni
 
 My research interest includes **Cognition-Oriented Multimodal Understanding, Reasoning and Generation, Multimodal Affective Computing, Multimodal Large Language Model, World Model.**
 
-I am currently exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
+I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
 - **2026.03**: &nbsp;🎉 **Accepted at IJCV**  
   <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
+
+- **2026.03**: &nbsp;**Preprint on ArXiv**  
+  [Story2Proposal: A Scaffold for Structured Scientific Paper Writing](https://arxiv.org/pdf/2603.27065).
 
 - **2026.01**: &nbsp;🎉 **Accepted at ICLR 2026**  
   <u>Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning</u>.
@@ -36,9 +39,6 @@ I am currently exploring new collaboration opportunities. If you are interested 
   
 - **2025.10**: &nbsp;**Workshop Summary Paper at ACM MM 2025**  
   [CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing](https://dl.acm.org/doi/abs/10.1145/3746027.3762243).
-
-- **2025.09**: &nbsp;**Preprint on ArXiv**  
-  <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
 
 - **2025.07**: &nbsp;**Accepted at TIFS**  
   <u>Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules</u>.

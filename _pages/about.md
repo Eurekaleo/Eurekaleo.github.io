@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/), Dr. [Bobo Li](https://www.libobo.site/) and Dr. [Shengqiong Wu](https://sqwu.top/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
-My research interest includes **Cognition-Oriented Multimodal Understanding, Reasoning and Generation, Multimodal Affective Computing, Multimodal Large Language Model, World Model.**
+My research interest includes **Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.**
 
 I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
@@ -102,11 +102,11 @@ I am currently and always exploring new collaboration opportunities. If you are 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='../images/drv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://www.arxiv.org/pdf/2509.11866)
+[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://link.springer.com/article/10.1007/s11263-026-02831-1)
 
 **Meng Luo**, Shengqiong Wu, Liqiang Jing, ..., Jiebo Luo, William Yang Wang, Hao Fei, Mong-Li Lee, Wynne Hsu
 
-[**Project**](https://www.arxiv.org/pdf/2509.11866) | <strong>IJCV</strong>
+[**Project**](https://github.com/Eurekaleo/Dr.V) | <strong>IJCV</strong>
 </div>
 </div>
 

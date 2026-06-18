@@ -25,6 +25,12 @@ My research interest includes **Bridging Physical and Mental Worlds toward Human
 I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2026.06**: &nbsp;🎉 **Accepted at ECCV 2026**  
+  <u>From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models</u>.
+
+- **2026.06**: &nbsp;🎉 **Accepted at ECCV 2026**  
+  <u>No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs</u>.
+
 - **2026.03**: &nbsp;🎉 **Accepted at IJCV**  
   <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
 

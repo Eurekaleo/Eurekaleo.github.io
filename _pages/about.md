@@ -93,6 +93,19 @@ I am currently and always exploring new collaboration opportunities. If you are 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='../images/thinkwithvideo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models](https://huggingface.co/datasets/KlingTeam/VWG-Bench)
+
+**Meng Luo**, Yicheng Liu, Jiahao Wang, Yuanxing Zhang, Xin Tao, Pengfei Wan, Kun Gai, and Hao Fei
+
+[**Project**](https://huggingface.co/datasets/KlingTeam/VWG-Bench) | <strong>ECCV</strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/hitemotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -115,6 +128,21 @@ I am currently and always exploring new collaboration opportunities. If you are 
 [**Project**](https://github.com/Eurekaleo/Dr.V) | <strong>IJCV</strong>
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='../images/noplace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs](https://arxiv.org/pdf/2606.31933)
+
+Haojian Huang, Harold Haodong Chen, **Meng Luo**, Junjia Du, Shanqing Xu, Ziheng Chen, Yanxiang Huang, Yinchuan Li, Ying-Cong Chen
+
+[**Project**](https://jethrojames.github.io/VidPair-Halluc/) | <strong>ECCV</strong>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/generalist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -229,7 +257,7 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 
 # 💻 Professional Activity
-Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, Neurocomputing, TOMM, KBS, TALLIP, and multiple workshops.
+Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, TOMM, KBS, TALLIP, and multiple workshops.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

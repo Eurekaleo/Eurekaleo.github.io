@@ -31,6 +31,9 @@ I am currently and always exploring new collaboration opportunities. If you are 
 - **2026.06**: &nbsp;🎉 **Accepted at ECCV 2026**  
   <u>No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs</u>.
 
+- **2026.06**: &nbsp;**Accepted at ICML 2026 DL4C Workshop**  
+  <u>Nexus: Execution-Grounded Multi-Agent Test Oracle Synthesi</u>.
+
 - **2026.03**: &nbsp;🎉 **Accepted at IJCV**  
   <u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.
 

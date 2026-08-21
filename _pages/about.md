@@ -25,6 +25,12 @@ My research interest includes **Bridging Physical and Mental Worlds toward Human
 I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**  
+  <u>RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding</u>.
+
+- **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**  
+  <u>OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models</u>.
+
 - **2026.06**: &nbsp;🎉 **Accepted at ECCV 2026**  
   <u>From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models</u>.
 

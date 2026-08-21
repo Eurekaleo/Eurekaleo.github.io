@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/), Dr. [Bobo Li](https://www.libobo.site/), Dr. [Shengqiong Wu](https://sqwu.top/) and Dr. [Hongzhan Lin](https://daniellin97.github.io/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
+I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/), Dr. [Bobo Li](https://www.libobo.site/), Dr. [Shengqiong Wu](https://sqwu.top/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
 My research interest includes **Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.**
 
@@ -266,7 +266,8 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 
 # 💻 Professional Activity
-Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, TOMM, KBS, TALLIP, and multiple workshops.
+- NICE Community Committee.
+- Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, TOMM, KBS, TALLIP, and multiple workshops.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work under the supervision of by Dr. [Hao Fei](https://haofei.vip/), Dr. [Bobo Li](https://www.libobo.site/), Dr. [Shengqiong Wu](https://sqwu.top/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
+I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work with Dr. [Hao Fei](https://haofei.vip/), Dr. [Shengqiong Wu](https://sqwu.top/), Dr. [Bobo Li](https://www.libobo.site/) and Dr. [Hongzhan Lin](https://daniellin97.github.io/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
 
 My research interest includes **Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.**
 
@@ -266,8 +266,9 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 
 # 💻 Professional Activity
-- NICE Community Committee.
-- Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, TOMM, KBS, TALLIP, and multiple workshops.
+- Research Intern with the Kling Team (25.06-26), mentored by Xintao Wang and Jiahao Wang.
+- Committee Member, NICE Community.
+- Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops.
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

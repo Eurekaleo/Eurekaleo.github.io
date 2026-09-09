@@ -145,6 +145,18 @@ I am currently and always exploring new collaboration opportunities. If you are 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='../images/ridge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding](https://arxiv.org/abs/2608.29958v1)
+
+Shanqing Xu, **Meng Luo**, Mengchen Qian, ..., Xiaojin Zhang, Zhongyu Wei, Wei Chen, Xiang Bai
+
+[**Project**](https://github.com/Xssq999/RIDGE) | <strong>EMNLP (Findings)</strong>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='../images/noplace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -34,7 +34,7 @@ I am currently and always exploring new collaboration opportunities. If you are 
 - **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**  
   <u>RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding</u>.
 
-- **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**
+- **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**  
   <u>OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models</u>.
 
 - **2026.06**: &nbsp;🎉 **Accepted at ECCV 2026**  

@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work with Dr. [Hao Fei](https://haofei.vip/), Dr. [Shengqiong Wu](https://sqwu.top/), Dr. [Bobo Li](https://www.libobo.site/) and Dr. [Hongzhan Lin](https://daniellin97.github.io/). Prior to this, I received my master degree from **NUS** and bachelor degree from **Wuhan University**.
+I am now a computer science PhD student at School of Computing in **National University of Singapore**. I am supervised by Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/cs/people/leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/cs/people/whsu/) at Center for Trusted Internet and Community (CTIC), and I also work with Dr. [Hao Fei](https://haofei.vip/), Dr. [Shengqiong Wu](https://sqwu.top/), Dr. [Bobo Li](https://www.libobo.site/) and Dr. [Hongzhan Lin](https://daniellin97.github.io/).
+Prior to this, I received my master's degree from **NUS** and my bachelor's degree from **Wuhan University**, where I also completed a minor in Business Administration as part of the Ziqiang Entrepreneurship Program.
 
 My research interest includes **Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.**
 

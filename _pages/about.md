@@ -29,8 +29,8 @@ I am currently and always exploring new collaboration opportunities. If you are 
 - **2026.09**: &nbsp;**Will Release a Survey on Video World Model**  
   [Awesome-Video-World-Model](https://github.com/Eurekaleo/Awesome-Video-World-Model).
   
-- **2026.09**: &nbsp;**Will Release a Survey on AI for Games**  
-  [Awesome-AI-for-Games](https://eurekaleo.github.io/awesome-ai-for-games/).
+- **2026.09**: &nbsp;**Release a Survey on AI for Games**  
+  [AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679v1).
 
 - **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**  
   <u>RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding</u>.
@@ -109,6 +109,17 @@ I am currently and always exploring new collaboration opportunities. If you are 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/survey_teaser_mosaic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679v1)
+
+**Meng Luo**, Yanlin Li, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu
+
+[**Project**](https://eurekaleo.github.io/awesome-ai-for-games/) | <strong>Arxiv</strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='../images/thinkwithvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

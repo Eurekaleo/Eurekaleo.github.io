@@ -30,7 +30,7 @@ I am currently and always exploring new collaboration opportunities. If you are 
   [Awesome-Video-World-Model](https://github.com/Eurekaleo/Awesome-Video-World-Model).
   
 - **2026.09**: &nbsp;**Release a Survey on AI for Games**  
-  [AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679v1).
+  [AI for Games in the Foundation Model Era](https://github.com/Eurekaleo/awesome-ai-for-games).
 
 - **2026.08**: &nbsp;🎉 **Accepted at EMNLP (Findings) 2026**  
   <u>RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding</u>.

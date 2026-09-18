@@ -109,7 +109,7 @@ I am currently and always exploring new collaboration opportunities. If you are 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/survey_teaser_mosaic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HF Daily Paper #2</div><img src='../images/survey_teaser_mosaic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679v1)

@@ -296,9 +296,10 @@ Jian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhen
 </div>
 
 # 💻 Professional Activity
-- Research Intern with the Kling Team (25.06-26), mentored by Xintao Wang and Jiahao Wang.
-- Committee Member, NICE Community.
-- Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops.
+* Research Intern with the Kling Team (25.06-26), mentored by [Xintao Wang](https://xinntao.github.io/) and Jiahao Wang.
+* Committee Member, [NICE Community](https://nice-intl.github.io/index.html).
+* Reviewer for NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops.
+
 
 # 🎖 Honors and Awards
 ### **During Undergraduate**

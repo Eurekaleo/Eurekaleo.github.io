@@ -26,6 +26,9 @@ My research interest includes **Bridging Physical and Mental Worlds toward Human
 I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via **mluo@u.nus.edu**.
 
 # 🔥 News
+- **2026.09**: &nbsp;🎉 **Accepted at NeurIPS 2026**  
+  <u>From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs</u>.
+  
 - **2026.09**: &nbsp;**Will Release a Survey on Video World Model**  
   [Awesome-Video-World-Model](https://github.com/Eurekaleo/Awesome-Video-World-Model).
   
@@ -109,6 +112,17 @@ I am currently and always exploring new collaboration opportunities. If you are 
   
 # 📝 Publications
 - 🎓During My PhD's Research Program
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='../images/CLoVR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs
+
+**Meng Luo**, Zikang Zhou, Shanqing Xu, Shize Zhang, Bobo Li, Hao Fei, Mong-Li Lee, Wynne Hsu 
+
+[**Project**](https://eurekaleo.github.io) | <strong>NeurIPS</strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HF Daily Paper #2</div><img src='../images/survey_teaser_mosaic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -120,9 +134,9 @@ I am currently and always exploring new collaboration opportunities. If you are 
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='../images/thinkwithvideo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
   
 [From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models](https://arxiv.org/pdf/2609.11242)
 

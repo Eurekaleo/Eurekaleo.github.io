@@ -393,7 +393,7 @@
     {
       "id": "paper-omnihallu",
       "title": "OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models",
-      "authors_html": "Jianjiang Yang, Peihang Li, Shanqing Xu, Mengchen Qian, Lu Zhang, <strong>Meng Luo</strong>",
+      "authors_html": "Jianjiang Yang, Peihang Li, Shanqing Xu, Mengchen Qian, Lu Zhang, <span class=\"corresponding-author\"><strong>Meng Luo</strong><sup title=\"Corresponding author\">*</sup></span>",
       "venue": "EMNLP (Findings)",
       "year": 2026,
       "recognitions": [],

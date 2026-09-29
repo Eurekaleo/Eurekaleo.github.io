@@ -78,6 +78,8 @@ main{min-width:0}
 .paper strong{font-weight:700}
 .paper-copy p{margin:0 0 .55em}
 .authors strong{text-decoration:underline;text-underline-offset:2px}
+.corresponding-author{white-space:nowrap}
+.corresponding-author sup{margin-left:1px;font-size:.75em;line-height:0;vertical-align:super}
 .venue{background:#fff9c4;color:#333;padding:2px 8px;border-radius:6px;font-weight:700;box-decoration-break:clone;-webkit-box-decoration-break:clone}
 .recognition{color:#e74c3c;font-weight:700}
 .paper-links{font-weight:700}

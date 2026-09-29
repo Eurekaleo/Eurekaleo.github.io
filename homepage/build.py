@@ -96,7 +96,7 @@ def experience(item):
     return f'''<article class="activity-row" id="experience-{item['id']}"><div class="activity-logo {item['id']}"><img src="homepage/{item['logo']}" alt="{E(item['organization'],quote=True)} logo" loading="lazy"></div><div class="activity-copy">{date}<h3>{E(item['role'])}{program}</h3><p>{link(item['url'],E(item['organization']))}{location}</p>{description}</div></article>'''
 
 bio = '</p><p>'.join(externalize(paragraph) for paragraph in I['paragraphs_html'])
-contacts = ''.join(link(c.get('url') or 'mailto:' + P['email'], icon(c['icon']) + E(c['label'])) for c in P['contacts'])
+contacts = ''.join(link(c.get('url') or 'mailto:' + P['email'], icon(c['icon']) + E(c['label']), f'contact-{c["icon"]}') for c in P['contacts'])
 honors = ''.join(f'<div class="honor-group"><h4>{E(g["label"])}</h4><ul>{"".join(f"<li><time>{h['year']}</time><span>{E(h['description'])}</span></li>" for h in g["items"])}</ul></div>' for g in D['honors']['groups'])
 scholar = next((c['url'] for c in P['contacts'] if c['icon'] == 'scholar'), None)
 scholar_link = link(scholar, E(L['scholar']) + ' ' + icon('external'), 'scholar-link') if scholar else ''
@@ -117,7 +117,7 @@ page=f'''<!doctype html>
 <section id="publications" class="section"><div class="section-heading"><h2 id="-publications">{E(L['publications'])}</h2>{scholar_link}</div><div class="paper-list">{''.join(paper(p) for p in D['publications'])}</div></section>
 <section id="experience" class="section"><h2 id="-professional-activity">{E(L['experience'])}</h2><div class="activities">{''.join(experience(item) for item in D['professional_experience'])}</div></section>
 <section id="honors" class="section"><h2 id="-honors-and-awards">{E(L['service'])}</h2><ul class="service-list">{service}</ul><div class="honors"><h3>{E(L['honors'])}</h3><p class="period">{E(D['honors']['period'])}</p>{honors}</div></section>
-<footer><p>{E(D['footer']['text'])} <span lang="zh">{E(D['footer']['text_zh'])}</span></p><a href="#top">{E(L['back_to_top'])}</a></footer></main></div>
+<footer id="page-footer"><div class="footer-motto"><span class="motto-mark" aria-hidden="true">“</span><div><p class="motto-en">{E(D['footer']['text'])}</p><p class="motto-zh" lang="zh">{E(D['footer']['text_zh'])}</p></div></div><a class="back-to-top" href="#top">{E(L['back_to_top'])}</a></footer></main></div>
 <dialog id="figure-dialog" aria-labelledby="figure-caption"><div class="dialog-heading"><span>Research figure</span><button type="button" id="close-figure" aria-label="Close research figure">{icon('close')}</button></div><div class="dialog-body"><img id="expanded-figure" alt=""><p id="figure-caption"></p><a id="original-figure" target="_blank" rel="noopener">Open image {icon('external')}</a></div></dialog></body></html>'''
 args.output.write_text(page, encoding='utf-8')
 print(f'Built V5.1: {len(D["publications"])} works; {len(visible_news)} current news visible, {len(older_news)} earlier news archived; {len(D["professional_experience"])} logo entries.')

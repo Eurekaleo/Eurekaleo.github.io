@@ -548,6 +548,10 @@
         {
           "label": "Paper",
           "url": "https://arxiv.org/abs/2410.10209v1"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/huangd1999/EffiCoder"
         }
       ]
     },
@@ -567,6 +571,10 @@
         {
           "label": "Paper",
           "url": "https://arxiv.org/abs/2410.04070"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/zjuruizhechen/PAD"
         }
       ]
     },
@@ -586,6 +594,10 @@
         {
           "label": "Paper",
           "url": "https://openreview.net/pdf?id=36Qk76s74U"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/AvaMERG/AvaMERG-Pipeline"
         }
       ]
     },
@@ -607,6 +619,10 @@
         {
           "label": "Paper",
           "url": "https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/zhanghanXD/NUS-Emo-at-SemEval-2024-Task3"
         }
       ],
       "badge_venue": "SemEval"
@@ -649,6 +665,10 @@
         {
           "label": "Paper",
           "url": "https://arxiv.org/abs/2408.08632"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey"
         }
       ]
     }

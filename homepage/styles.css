@@ -118,6 +118,7 @@ main{min-width:0}
 .activity-copy>p:not(.activity-date){font-size:14px;line-height:1.7}
 .activity-copy .mentors{margin-top:4px;color:#59646d}
 .service-list{list-style:disc;padding-left:19px;font-size:15px;line-height:1.8}
+.service-list strong{white-space:nowrap}
 .honors{margin-top:26px}
 .honors>h3{font:700 18px/1.5 Orbitron,Inter,sans-serif;letter-spacing:.3px;margin-bottom:7px}
 .period{font-size:14px;color:var(--muted);margin-bottom:18px}
@@ -125,6 +126,7 @@ main{min-width:0}
 .honor-group h4{font-size:16px;margin-bottom:10px}
 .honor-group li{display:grid;grid-template-columns:40px minmax(0,1fr);gap:12px;font-size:14px;line-height:1.7;margin-bottom:7px}
 .honor-group time{color:var(--muted);font-size:13px;padding-top:1px}
+.honor-group sup{font-size:.7em;line-height:0;vertical-align:super}
 footer{position:relative;border-top:1px solid var(--line);padding:28px 0 34px;margin-top:40px;display:flex;align-items:center;justify-content:space-between;gap:24px;font-size:13px;line-height:1.7;color:var(--muted)}
 footer::before{content:"";position:absolute;top:-1px;left:0;width:108px;height:2px;background:linear-gradient(90deg,#22c1d6,#7052b5,#e995b6);border-radius:2px}
 .footer-motto{display:grid;grid-template-columns:30px minmax(0,1fr);align-items:start;gap:12px;min-width:0}

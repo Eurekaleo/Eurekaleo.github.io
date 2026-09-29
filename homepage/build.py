@@ -68,6 +68,10 @@ def link(url, label, css=''):
 def externalize(fragment):
     return re.sub(r'<a href="(https://[^"]+)"', r'<a target="_blank" rel="noopener noreferrer" href="\1"', fragment)
 
+def inline_text(text):
+    """Escape text while preserving only simple emphasis and superscript tags."""
+    return re.sub(r'&lt;(/?(?:strong|sup))&gt;', r'<\1>', E(text))
+
 def paper(p):
     venue = p['venue']
     awards = p.get('recognitions', [])
@@ -97,13 +101,13 @@ def experience(item):
 
 bio = '</p><p>'.join(externalize(paragraph) for paragraph in I['paragraphs_html'])
 contacts = ''.join(link(c.get('url') or 'mailto:' + P['email'], icon(c['icon']) + E(c['label']), f'contact-{c["icon"]}') for c in P['contacts'])
-honors = ''.join(f'<div class="honor-group"><h4>{E(g["label"])}</h4><ul>{"".join(f"<li><time>{h['year']}</time><span>{E(h['description'])}</span></li>" for h in g["items"])}</ul></div>' for g in D['honors']['groups'])
+honors = ''.join(f'<div class="honor-group"><h4>{E(g["label"])}</h4><ul>{"".join(f"<li><time>{h['year']}</time><span>{inline_text(h['description'])}</span></li>" for h in g["items"])}</ul></div>' for g in D['honors']['groups'])
 scholar = next((c['url'] for c in P['contacts'] if c['icon'] == 'scholar'), None)
 scholar_link = link(scholar, E(L['scholar']) + ' ' + icon('external'), 'scholar-link') if scholar else ''
 visible_news = [n for n in D['news'] if int(n['date'][:4]) >= D['news_archive']['before_year']]
 older_news = [n for n in D['news'] if int(n['date'][:4]) < D['news_archive']['before_year']]
 archive_label = D['news_archive']['label'].replace('{count}', str(len(older_news)))
-service = ''.join(f'<li>{E(item)}</li>' for item in D['academic_service'])
+service = ''.join(f'<li>{inline_text(item)}</li>' for item in D['academic_service'])
 
 page=f'''<!doctype html>
 <html lang="en" class="no-js"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">

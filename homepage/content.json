@@ -684,7 +684,7 @@
     }
   ],
   "academic_service": [
-    "Reviewer for TPAMI, NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops."
+    "Reviewer for <strong>TPAMI</strong>, <strong>NeurIPS</strong>, <strong>ICLR</strong>, <strong>ICML</strong>, <strong>CVPR</strong>, <strong>ICCV</strong>, <strong>ACL</strong>, <strong>ACM MM</strong>, <strong>AAAI</strong>, <strong>WWW</strong>, <strong>ECCV</strong>, <strong>EMNLP</strong>, <strong>Neurocomputing</strong>, <strong>ACM TOMM</strong>, <strong>KBS</strong>, <strong>ACM TALLIP</strong>, and various workshops."
   ],
   "honors": {
     "period": "During my undergraduate studies",
@@ -695,15 +695,15 @@
         "items": [
           {
             "year": 2022,
-            "description": "Huawei Scholarship, Wuhan University (Top 5%)"
+            "description": "Huawei Scholarship, Wuhan University (<strong>Top 5%</strong>)"
           },
           {
             "year": 2021,
-            "description": "First-class Excellence Scholarship, Wuhan University (Ranked 2nd)"
+            "description": "First-class Excellence Scholarship, Wuhan University (<strong>Ranked 2<sup>nd</sup></strong>)"
           },
           {
             "year": 2021,
-            "description": "Merit Student, Wuhan University (Top 10%)"
+            "description": "Merit Student, Wuhan University (<strong>Top 10%</strong>)"
           },
           {
             "year": 2021,
@@ -725,19 +725,19 @@
           },
           {
             "year": 2021,
-            "description": "National First Prize, Citi Cup Financial Innovation Application Contest"
+            "description": "National First Prize, <strong>Citi Cup Financial Innovation Application Contest</strong>"
           },
           {
             "year": 2021,
-            "description": "Bole Award, ByteTop Summit Project, ByteDance"
+            "description": "Bole Award, ByteTop Summit Project, <strong>ByteDance</strong>"
           },
           {
             "year": 2019,
-            "description": "Top 10 Book Ambassador, Wuhan University Library"
+            "description": "<strong>Top 10</strong> Book Ambassador, Wuhan University Library"
           },
           {
             "year": 2018,
-            "description": "The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP"
+            "description": "The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, <strong>HP</strong>"
           }
         ]
       },
@@ -747,7 +747,7 @@
         "items": [
           {
             "year": 2021,
-            "description": "Chairman, Wuhan University Campus Ambassador, ByteDance"
+            "description": "Chairman, Wuhan University Campus Ambassador, <strong>ByteDance</strong>"
           },
           {
             "year": 2021,
@@ -755,7 +755,7 @@
           },
           {
             "year": 2021,
-            "description": "Online Course on Interdisciplinary Communication, University of Cambridge"
+            "description": "Online Course on Interdisciplinary Communication, <strong>University of Cambridge</strong>"
           }
         ]
       }

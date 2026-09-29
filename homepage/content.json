@@ -656,7 +656,7 @@
   "professional_experience": [
     {
       "id": "tencent",
-      "organization": "Tencent",
+      "organization": "Tencent IEG",
       "url": "https://www.tencent.com/",
       "location": "Singapore",
       "role": "Multi-Modality Research Intern",
@@ -751,7 +751,7 @@
           },
           {
             "year": 2021,
-            "description": "Excellent Campus Ambassador, WePie Team"
+            "description": "Excellent Campus Ambassador, <strong>WePie Team</strong>"
           },
           {
             "year": 2021,

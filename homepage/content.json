@@ -1,1210 +1,634 @@
 {
-  "schema_version": 1,
-  "source": {
-    "live_url": "https://eurekaleo.github.io/",
-    "live_snapshot": "work/original-live.html",
-    "repository": "Eurekaleo/Eurekaleo.github.io",
-    "content_file": "_pages/about.md",
-    "config_file": "_config.yml",
-    "extracted_date": "2026-09-26"
+  "schema_version": 2,
+  "site": {
+    "title": "Meng Luo — Homepage",
+    "description": "Meng Luo, PhD student at the National University of Singapore. Multimodal video understanding, reasoning, and generation.",
+    "url": "https://eurekaleo.github.io/",
+    "share_description": "CS PhD student at NUS. Multimodal video understanding, reasoning, and generation.",
+    "share_image": "assets/images/luomeng.webp",
+    "favicon": "assets/favicon.png"
   },
   "profile": {
     "name": "Meng Luo",
-    "description": "PhD student at NUS",
+    "role": "CS PhD student",
     "affiliation": "National University of Singapore",
-    "avatar": "images/luomeng.png",
-    "avatar_alt": "Meng Luo",
+    "avatar": "assets/images/luomeng.webp",
+    "avatar_alt": "Meng Luo by the ocean",
     "email": "mluo@u.nus.edu",
     "contacts": [
       {
         "label": "Email",
-        "url": "mailto:mluo@u.nus.edu"
+        "icon": "mail"
       },
       {
-        "label": "Github",
+        "label": "GitHub",
+        "icon": "github",
         "url": "https://github.com/Eurekaleo"
       },
       {
         "label": "Google Scholar",
+        "icon": "scholar",
         "url": "https://scholar.google.com/citations?user=REbZPKUAAAAJ&hl=en&oi=ao"
       }
     ]
   },
-  "navigation_original": [
-    {
-      "label": "Homepage",
-      "url": "#about-me"
-    },
-    {
-      "label": "About Me",
-      "url": "/#about-me"
-    },
-    {
-      "label": "News",
-      "url": "/#-news"
-    },
-    {
-      "label": "Publications",
-      "url": "/#-publications"
-    },
-    {
-      "label": "Honors and Awards",
-      "url": "/#-honors-and-awards"
-    },
-    {
-      "label": "Experience",
-      "url": "/#-internships"
-    }
-  ],
-  "bio": [
-    {
-      "text": "I am now a computer science PhD student at School of Computing in National University of Singapore. I am supervised by Prof. Mong-Li Lee and Prof. Wynne Hsu at Center for Trusted Internet and Community (CTIC), and I also work with Dr. Hao Fei, Dr. Shengqiong Wu, Dr. Bobo Li, Dr. Hongzhan Lin and Dr. Tianjie Ju. Prior to this, I received my master’s degree from NUS and my bachelor’s degree from Wuhan University, where I also completed a minor in Business Administration as part of the Ziqiang Entrepreneurship Program.",
-      "html": "I am now a computer science PhD student at School of Computing in <strong>National University of Singapore</strong>. I am supervised by Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/leeml/\">Mong-Li Lee</a> and Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/whsu/\">Wynne Hsu</a> at Center for Trusted Internet and Community (CTIC), and I also work with Dr. <a href=\"https://haofei.vip/\">Hao Fei</a>, Dr. <a href=\"https://sqwu.top/\">Shengqiong Wu</a>, Dr. <a href=\"https://www.libobo.site/\">Bobo Li</a>, Dr. <a href=\"https://daniellin97.github.io/\">Hongzhan Lin</a> and Dr. <a href=\"https://jometeorie.github.io/\">Tianjie Ju</a>.\nPrior to this, I received my master’s degree from <strong>NUS</strong> and my bachelor’s degree from <strong>Wuhan University</strong>, where I also completed a minor in Business Administration as part of the Ziqiang Entrepreneurship Program.",
-      "links": [
-        {
-          "label": "Mong-Li Lee",
-          "url": "https://www.comp.nus.edu.sg/cs/people/leeml/"
-        },
-        {
-          "label": "Wynne Hsu",
-          "url": "https://www.comp.nus.edu.sg/cs/people/whsu/"
-        },
-        {
-          "label": "Hao Fei",
-          "url": "https://haofei.vip/"
-        },
-        {
-          "label": "Shengqiong Wu",
-          "url": "https://sqwu.top/"
-        },
-        {
-          "label": "Bobo Li",
-          "url": "https://www.libobo.site/"
-        },
-        {
-          "label": "Hongzhan Lin",
-          "url": "https://daniellin97.github.io/"
-        },
-        {
-          "label": "Tianjie Ju",
-          "url": "https://jometeorie.github.io/"
-        }
-      ]
-    },
-    {
-      "text": "My research interest includes Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.",
-      "html": "My research interest includes <strong>Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.</strong>",
-      "links": []
-    },
-    {
-      "text": "I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via mluo@u.nus.edu.",
-      "html": "I am currently and always exploring new collaboration opportunities. If you are interested in any of the topics mentioned above, please feel free to reach out via <strong>mluo@u.nus.edu</strong>.",
-      "links": []
-    }
-  ],
+  "intro": {
+    "paragraphs_html": [
+      "I am a computer science PhD student at the School of Computing, <strong>National University of Singapore</strong>. I am supervised by Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/leeml/\">Mong-Li Lee</a> and Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/whsu/\">Wynne Hsu</a> at Center for Trusted Internet and Community (CTIC), and I also work with Dr. <a href=\"https://haofei.vip/\">Hao Fei</a>, Dr. <a href=\"https://sqwu.top/\">Shengqiong Wu</a>, Dr. <a href=\"https://www.libobo.site/\">Bobo Li</a>, Dr. <a href=\"https://daniellin97.github.io/\">Hongzhan Lin</a> and Dr. <a href=\"https://jometeorie.github.io/\">Tianjie Ju</a>.",
+      "Prior to this, I received my master’s degree from <strong>NUS</strong> and my bachelor’s degree from <strong>Wuhan University</strong>, where I also completed a minor in Business Administration as part of the Ziqiang Entrepreneurship Program."
+    ],
+    "research_prefix": "My research interest includes",
+    "research_statement": "Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.",
+    "contact_prefix": "I am always exploring new collaboration opportunities. If you are interested in these topics, please feel free to email me at",
+    "contact_suffix": "."
+  },
+  "labels": {
+    "home": "Homepage",
+    "about": "About Me",
+    "news": "News",
+    "publications": "Selected Works",
+    "experience": "Professional Activity",
+    "service_nav": "Service and Honors",
+    "service": "Academic Service and Honors",
+    "honors": "Honors and Awards",
+    "scholar": "Google Scholar",
+    "news_hide": "Hide earlier updates",
+    "back_to_top": "Back to top ↑"
+  },
+  "news_archive": {
+    "before_year": 2026,
+    "label": "2025 and earlier ({count} updates)"
+  },
   "news": [
     {
       "id": "news-01",
       "date": "2026.09",
       "headline": "Accepted at NeurIPS 2026",
       "title": "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs",
-      "title_html": "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs",
-      "url": null,
-      "celebration": true,
-      "text": "2026.09: 🎉 Accepted at NeurIPS 2026 From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs.",
-      "html": "<strong>2026.09</strong>:  🎉 <strong>Accepted at NeurIPS 2026</strong><br>\n<u>From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-02",
       "date": "2026.09",
       "headline": "Will Release a Survey on Video World Model",
       "title": "Awesome-Video-World-Model",
-      "title_html": "Awesome-Video-World-Model",
-      "url": "https://github.com/Eurekaleo/Awesome-Video-World-Model",
-      "celebration": false,
-      "text": "2026.09: Will Release a Survey on Video World Model Awesome-Video-World-Model.",
-      "html": "<strong>2026.09</strong>:  <strong>Will Release a Survey on Video World Model</strong><br>\n<a href=\"https://github.com/Eurekaleo/Awesome-Video-World-Model\">Awesome-Video-World-Model</a>.",
-      "links": [
-        {
-          "label": "Awesome-Video-World-Model",
-          "url": "https://github.com/Eurekaleo/Awesome-Video-World-Model"
-        }
-      ]
+      "url": "https://github.com/Eurekaleo/Awesome-Video-World-Model"
     },
     {
       "id": "news-03",
       "date": "2026.09",
       "headline": "Release a Survey on AI for Games",
       "title": "AI for Games in the Foundation Model Era",
-      "title_html": "AI for Games in the Foundation Model Era",
-      "url": "https://github.com/Eurekaleo/awesome-ai-for-games",
-      "celebration": false,
-      "text": "2026.09: Release a Survey on AI for Games AI for Games in the Foundation Model Era.",
-      "html": "<strong>2026.09</strong>:  <strong>Release a Survey on AI for Games</strong><br>\n<a href=\"https://github.com/Eurekaleo/awesome-ai-for-games\">AI for Games in the Foundation Model Era</a>.",
-      "links": [
-        {
-          "label": "AI for Games in the Foundation Model Era",
-          "url": "https://github.com/Eurekaleo/awesome-ai-for-games"
-        }
-      ]
+      "url": "https://github.com/Eurekaleo/awesome-ai-for-games"
     },
     {
       "id": "news-04",
       "date": "2026.08",
       "headline": "Accepted at EMNLP (Findings) 2026",
       "title": "RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding",
-      "title_html": "RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding",
-      "url": null,
-      "celebration": true,
-      "text": "2026.08: 🎉 Accepted at EMNLP (Findings) 2026 RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding.",
-      "html": "<strong>2026.08</strong>:  🎉 <strong>Accepted at EMNLP (Findings) 2026</strong><br>\n<u>RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-05",
       "date": "2026.08",
       "headline": "Accepted at EMNLP (Findings) 2026",
       "title": "OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models",
-      "title_html": "OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models",
-      "url": null,
-      "celebration": true,
-      "text": "2026.08: 🎉 Accepted at EMNLP (Findings) 2026 OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models.",
-      "html": "<strong>2026.08</strong>:  🎉 <strong>Accepted at EMNLP (Findings) 2026</strong><br>\n<u>OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-06",
       "date": "2026.06",
       "headline": "Accepted at ECCV 2026",
       "title": "From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models",
-      "title_html": "From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models",
-      "url": null,
-      "celebration": true,
-      "text": "2026.06: 🎉 Accepted at ECCV 2026 From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models.",
-      "html": "<strong>2026.06</strong>:  🎉 <strong>Accepted at ECCV 2026</strong><br>\n<u>From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-07",
       "date": "2026.06",
       "headline": "Accepted at ECCV 2026",
       "title": "No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs",
-      "title_html": "No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs",
-      "url": null,
-      "celebration": true,
-      "text": "2026.06: 🎉 Accepted at ECCV 2026 No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs.",
-      "html": "<strong>2026.06</strong>:  🎉 <strong>Accepted at ECCV 2026</strong><br>\n<u>No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-08",
       "date": "2026.06",
       "headline": "Accepted at ICML 2026 DL4C Workshop",
       "title": "Nexus: Execution-Grounded Multi-Agent Test Oracle Synthesi",
-      "title_html": "Nexus: Execution-Grounded Multi-Agent Test Oracle Synthesi",
-      "url": null,
-      "celebration": false,
-      "text": "2026.06: Accepted at ICML 2026 DL4C Workshop Nexus: Execution-Grounded Multi-Agent Test Oracle Synthesi.",
-      "html": "<strong>2026.06</strong>:  <strong>Accepted at ICML 2026 DL4C Workshop</strong><br>\n<u>Nexus: Execution-Grounded Multi-Agent Test Oracle Synthesi</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-09",
       "date": "2026.03",
       "headline": "Accepted at IJCV",
       "title": "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding",
-      "title_html": "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding",
-      "url": null,
-      "celebration": true,
-      "text": "2026.03: 🎉 Accepted at IJCV Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding.",
-      "html": "<strong>2026.03</strong>:  🎉 <strong>Accepted at IJCV</strong><br>\n<u>Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-10",
       "date": "2026.03",
       "headline": "Preprint on ArXiv",
       "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
-      "title_html": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
-      "url": "https://arxiv.org/pdf/2603.27065",
-      "celebration": false,
-      "text": "2026.03: Preprint on ArXiv Story2Proposal: A Scaffold for Structured Scientific Paper Writing.",
-      "html": "<strong>2026.03</strong>:  <strong>Preprint on ArXiv</strong><br>\n<a href=\"https://arxiv.org/pdf/2603.27065\">Story2Proposal: A Scaffold for Structured Scientific Paper Writing</a>.",
-      "links": [
-        {
-          "label": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
-          "url": "https://arxiv.org/pdf/2603.27065"
-        }
-      ]
+      "url": "https://arxiv.org/pdf/2603.27065"
     },
     {
       "id": "news-11",
       "date": "2026.01",
       "headline": "Accepted at ICLR 2026",
       "title": "Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning",
-      "title_html": "Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning",
-      "url": null,
-      "celebration": true,
-      "text": "2026.01: 🎉 Accepted at ICLR 2026 Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning.",
-      "html": "<strong>2026.01</strong>:  🎉 <strong>Accepted at ICLR 2026</strong><br>\n<u>Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-12",
       "date": "2025.10",
       "headline": "Grand Challenge Summary Paper at ACM MM 2025",
       "title": "The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis",
-      "title_html": "The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3762091",
-      "celebration": false,
-      "text": "2025.10: Grand Challenge Summary Paper at ACM MM 2025 The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis.",
-      "html": "<strong>2025.10</strong>:  <strong>Grand Challenge Summary Paper at ACM MM 2025</strong><br>\n<a href=\"https://dl.acm.org/doi/abs/10.1145/3746027.3762091\">The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis</a>.",
-      "links": [
-        {
-          "label": "The ACM Multimedia 2025 Grand Challenge of Multimodal Conversational Aspect-based Sentiment Analysis",
-          "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3762091"
-        }
-      ]
+      "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3762091"
     },
     {
       "id": "news-13",
       "date": "2025.10",
       "headline": "Workshop Summary Paper at ACM MM 2025",
       "title": "CogMAEC’25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing",
-      "title_html": "CogMAEC’25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3762243",
-      "celebration": false,
-      "text": "2025.10: Workshop Summary Paper at ACM MM 2025 CogMAEC’25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing.",
-      "html": "<strong>2025.10</strong>:  <strong>Workshop Summary Paper at ACM MM 2025</strong><br>\n<a href=\"https://dl.acm.org/doi/abs/10.1145/3746027.3762243\">CogMAEC’25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing</a>.",
-      "links": [
-        {
-          "label": "CogMAEC’25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing",
-          "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3762243"
-        }
-      ]
+      "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3762243"
     },
     {
       "id": "news-14",
       "date": "2025.07",
       "headline": "Accepted at TIFS",
       "title": "Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules",
-      "title_html": "Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules",
-      "url": null,
-      "celebration": false,
-      "text": "2025.07: Accepted at TIFS Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules.",
-      "html": "<strong>2025.07</strong>:  <strong>Accepted at TIFS</strong><br>\n<u>Poisoning Attacks to Knowledge Distillation-based Federated Learning under Robust Aggregation Rules</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-15",
       "date": "2025.06",
       "headline": "Accepted at ACL 2025 FEVER Workshop",
       "title": "EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions",
-      "title_html": "EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions",
-      "url": null,
-      "celebration": false,
-      "text": "2025.06: Accepted at ACL 2025 FEVER Workshop EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions.",
-      "html": "<strong>2025.06</strong>:  <strong>Accepted at ACL 2025 FEVER Workshop</strong><br>\n<u>EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-16",
       "date": "2025.05",
       "headline": "Accepted at ACL 2025 (Oral)",
       "title": "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework",
-      "title_html": "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework",
-      "url": null,
-      "celebration": true,
-      "text": "2025.05: 🎉 Accepted at ACL 2025 (Oral) Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework.",
-      "html": "<strong>2025.05</strong>:  🎉 <strong>Accepted at ACL 2025 (Oral)</strong><br>\n<u>Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-17",
       "date": "2025.05",
       "headline": "Accepted at ICML 2025 (Oral, Spotlight)",
       "title": "On Path to Multimodal Generalist: Levels and Benchmarks",
-      "title_html": "On Path to Multimodal Generalist: Levels and Benchmarks",
-      "url": null,
-      "celebration": true,
-      "text": "2025.05: 🎉 Accepted at ICML 2025 (Oral, Spotlight) On Path to Multimodal Generalist: Levels and Benchmarks.",
-      "html": "<strong>2025.05</strong>:  🎉 <strong>Accepted at ICML 2025 (Oral, Spotlight)</strong> <br>\n<u>On Path to Multimodal Generalist: Levels and Benchmarks</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-18",
       "date": "2025.05",
       "headline": "Accepted at ICML 2025",
       "title": "VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models",
-      "title_html": "VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models",
-      "url": null,
-      "celebration": true,
-      "text": "2025.05: 🎉 Accepted at ICML 2025 VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models.",
-      "html": "<strong>2025.05</strong>:  🎉 <strong>Accepted at ICML 2025</strong> <br>\n<u>VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-19",
       "date": "2025.05",
       "headline": "Accepted at ICML 2025",
       "title": "SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
-      "title_html": "SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
-      "url": null,
-      "celebration": true,
-      "text": "2025.05: 🎉 Accepted at ICML 2025 SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning.",
-      "html": "<strong>2025.05</strong>:  🎉 <strong>Accepted at ICML 2025</strong> <br>\n<u>SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-20",
       "date": "2025.04",
       "headline": "Co-organizing a Grand Challenge at ACM MM 2025",
       "title": "Multimodal Conversational Aspect-based Sentiment Analysis (MCABSA 2025)",
-      "title_html": "Multimodal Conversational Aspect-based Sentiment Analysis (MCABSA 2025)",
-      "url": null,
-      "celebration": false,
-      "text": "2025.04: Co-organizing a Grand Challenge at ACM MM 2025 Multimodal Conversational Aspect-based Sentiment Analysis (MCABSA 2025).",
-      "html": "<strong>2025.04</strong>:  <strong>Co-organizing a Grand Challenge at ACM MM 2025</strong> <br>\n<u>Multimodal Conversational Aspect-based Sentiment Analysis (MCABSA 2025)</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-21",
       "date": "2025.04",
       "headline": "Co-organizing a Workshop at ACM MM 2025",
       "title": "The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop",
-      "title_html": "The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop",
-      "url": null,
-      "celebration": false,
-      "text": "2025.04: Co-organizing a Workshop at ACM MM 2025 The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop.",
-      "html": "<strong>2025.04</strong>:  <strong>Co-organizing a Workshop at ACM MM 2025</strong> <br>\n<u>The 1st Cognition-oriented Multimodal Affective and Empathetic Computing (CogMAEC 2025) Workshop</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-22",
       "date": "2025.01",
       "headline": "Accepted at ICLR 2025",
       "title": "PAD: Personalized Alignment at Decoding-Time",
-      "title_html": "PAD: Personalized Alignment at Decoding-Time",
-      "url": null,
-      "celebration": true,
-      "text": "2025.01: 🎉 Accepted at ICLR 2025 PAD: Personalized Alignment at Decoding-Time.",
-      "html": "<strong>2025.01</strong>:  🎉 <strong>Accepted at ICLR 2025</strong><br>\n<u>PAD: Personalized Alignment at Decoding-Time</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-23",
       "date": "2025.01",
       "headline": "Accepted at WWW 2025",
       "title": "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark",
-      "title_html": "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark",
-      "url": null,
-      "celebration": true,
-      "text": "2025.01: 🎉 Accepted at WWW 2025 Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark.",
-      "html": "<strong>2025.01</strong>:  🎉 <strong>Accepted at WWW 2025</strong><br>\n<u>Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-24",
       "date": "2024.09",
       "headline": "New Paper Published on arxiv",
       "title": "A Survey on Benchmarks of Multimodal Large Language Models",
-      "title_html": "A Survey on Benchmarks of Multimodal Large Language Models",
-      "url": null,
-      "celebration": false,
-      "text": "2024.09: New Paper Published on arxiv A Survey on Benchmarks of Multimodal Large Language Models.",
-      "html": "<strong>2024.09</strong>:  <strong>New Paper Published on arxiv</strong><br>\n<u>A Survey on Benchmarks of Multimodal Large Language Models</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-25",
       "date": "2024.08",
       "headline": "Accepted at ACM MM Workshop (MIS24) (Best Paper Award)",
       "title": "Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM",
-      "title_html": "Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM",
-      "url": null,
-      "celebration": true,
-      "text": "2024.08: 🎉 Accepted at ACM MM Workshop (MIS24) (Best Paper Award) Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM.",
-      "html": "<strong>2024.08</strong>:  🎉 <strong>Accepted at ACM MM Workshop (MIS24) (Best Paper Award)</strong><br>\n<u>Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-26",
       "date": "2024.07",
       "headline": "Accepted at ACM MM 2024 (Oral)",
       "title": "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis",
-      "title_html": "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis",
-      "url": null,
-      "celebration": true,
-      "text": "2024.07: 🎉 Accepted at ACM MM 2024 (Oral) PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis.",
-      "html": "<strong>2024.07</strong>:  🎉 <strong>Accepted at ACM MM 2024 (Oral)</strong><br>\n<u>PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-27",
       "date": "2024.03",
       "headline": "2nd Place at SemEval-2024",
       "title": "NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations",
-      "title_html": "NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations",
-      "url": null,
-      "celebration": true,
-      "text": "2024.03: 🎉 2nd Place at SemEval-2024 NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations.",
-      "html": "<strong>2024.03</strong>:  🎉 <strong>2nd Place at SemEval-2024</strong><br>\n<u>NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations</u>.",
-      "links": []
+      "url": null
     },
     {
       "id": "news-28",
       "date": "2022.06",
       "headline": "Accepted at TDSC",
       "title": "Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation",
-      "title_html": "Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation",
-      "url": null,
-      "celebration": false,
-      "text": "2022.06: Accepted at TDSC Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation.",
-      "html": "<strong>2022.06</strong>:  <strong>Accepted at TDSC</strong><br>\n<u>Towards Class-Balanced Privacy Preserving Heterogeneous Model Aggregation</u>.",
-      "links": []
-    }
-  ],
-  "publication_groups": [
-    {
-      "id": "phd",
-      "label": "During My PhD’s Research Program"
-    },
-    {
-      "id": "masters",
-      "label": "During My Master’s Research Program"
+      "url": null
     }
   ],
   "publications": [
     {
       "id": "paper-01",
-      "order": 1,
-      "group": "phd",
       "title": "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs",
-      "title_html": "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs",
-      "paper_url": null,
-      "authors": "Meng Luo, Zikang Zhou, Shanqing Xu, Shize Zhang, Bobo Li, Hao Fei, Mong-Li Lee, Wynne Hsu",
       "authors_html": "<strong>Meng Luo</strong>, Zikang Zhou, Shanqing Xu, Shize Zhang, Bobo Li, Hao Fei, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": false,
-      "image": "images/CLoVR.png",
-      "image_original": "../images/CLoVR.png",
+      "venue": "NeurIPS",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/CLoVR.webp",
       "image_dimensions": {
         "width": 1627,
         "height": 932
       },
-      "image_alt_original": "sym",
-      "badge": "NeurIPS",
-      "venue": "NeurIPS",
-      "links": [
-        {
-          "label": "Project",
-          "url": "https://eurekaleo.github.io"
-        }
-      ],
-      "meta_html": "<a href=\"https://eurekaleo.github.io\"><strong>Project</strong></a> | <strong>NeurIPS</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-01",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">NeurIPS</div><img src='../images/CLoVR.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \nFrom Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs\n\n**Meng Luo**, Zikang Zhou, Shanqing Xu, Shize Zhang, Bobo Li, Hao Fei, Mong-Li Lee, Wynne Hsu \n\n[**Project**](https://eurekaleo.github.io) | <strong>NeurIPS</strong>\n</div>\n</div>"
+      "links": []
     },
     {
       "id": "paper-02",
-      "order": 2,
-      "group": "phd",
       "title": "AI for Games in the Foundation Model Era",
-      "title_html": "<a href=\"https://arxiv.org/abs/2609.16679v1\">AI for Games in the Foundation Model Era</a>",
-      "paper_url": "https://arxiv.org/abs/2609.16679v1",
-      "authors": "Meng Luo, Yanlin Li, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu",
       "authors_html": "<strong>Meng Luo</strong>, Yanlin Li, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": false,
-      "image": "images/survey_teaser_mosaic.jpg",
-      "image_original": "../images/survey_teaser_mosaic.jpg",
+      "venue": "arXiv",
+      "year": 2026,
+      "recognitions": [
+        "HF Daily Paper #2"
+      ],
+      "image": "assets/images/survey_teaser_mosaic.webp",
       "image_dimensions": {
         "width": 4224,
         "height": 2048
       },
-      "image_alt_original": "sym",
-      "badge": "HF Daily Paper #2",
-      "venue": "Arxiv",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2609.16679v1"
+        },
+        {
+          "label": "Project Page",
           "url": "https://eurekaleo.github.io/awesome-ai-for-games/"
         }
-      ],
-      "meta_html": "<a href=\"https://eurekaleo.github.io/awesome-ai-for-games/\"><strong>Project</strong></a> | <strong>Arxiv</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-03",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">HF Daily Paper #2</div><img src='../images/survey_teaser_mosaic.jpg' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679v1)\n\n**Meng Luo**, Yanlin Li, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu\n\n[**Project**](https://eurekaleo.github.io/awesome-ai-for-games/) | <strong>Arxiv</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-03",
-      "order": 3,
-      "group": "phd",
       "title": "From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2609.11242\">From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models</a>",
-      "paper_url": "https://arxiv.org/pdf/2609.11242",
-      "authors": "Meng Luo, Yicheng Liu, Jiahao Wang, Yuanxing Zhang, Xin Tao, Pengfei Wan, Kun Gai, and Hao Fei",
       "authors_html": "<strong>Meng Luo</strong>, Yicheng Liu, Jiahao Wang, Yuanxing Zhang, Xin Tao, Pengfei Wan, Kun Gai, and Hao Fei",
-      "authors_are_abbreviated": false,
-      "image": "images/thinkwithvideo.png",
-      "image_original": "../images/thinkwithvideo.png",
+      "venue": "ECCV",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/thinkwithvideo.webp",
       "image_dimensions": {
         "width": 999,
         "height": 416
       },
-      "image_alt_original": "sym",
-      "badge": "ECCV",
-      "venue": "ECCV",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/pdf/2609.11242"
+        },
+        {
+          "label": "Dataset",
           "url": "https://huggingface.co/datasets/KlingTeam/VWG-Bench"
         }
-      ],
-      "meta_html": "<a href=\"https://huggingface.co/datasets/KlingTeam/VWG-Bench\"><strong>Project</strong></a> | <strong>ECCV</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-06",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ECCV</div><img src='../images/thinkwithvideo.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n\n  \n[From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models](https://arxiv.org/pdf/2609.11242)\n\n**Meng Luo**, Yicheng Liu, Jiahao Wang, Yuanxing Zhang, Xin Tao, Pengfei Wan, Kun Gai, and Hao Fei\n\n[**Project**](https://huggingface.co/datasets/KlingTeam/VWG-Bench) | <strong>ECCV</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-04",
-      "order": 4,
-      "group": "phd",
       "title": "Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2602.00971\">Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning</a>",
-      "paper_url": "https://arxiv.org/pdf/2602.00971",
-      "authors": "Meng Luo, Bobo Li, Shanqing Xu, …, Hao Fei, Mong-Li Lee, Wynne Hsu",
       "authors_html": "<strong>Meng Luo</strong>, Bobo Li, Shanqing Xu, …, Hao Fei, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": true,
-      "image": "images/hitemotion.png",
-      "image_original": "../images/hitemotion.png",
+      "venue": "ICLR",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/hitemotion.webp",
       "image_dimensions": {
         "width": 3160,
         "height": 1208
       },
-      "image_alt_original": "sym",
-      "badge": "ICLR",
-      "venue": "ICLR",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://arxiv.org/pdf/2602.00971"
         }
-      ],
-      "meta_html": "<a href=\"https://arxiv.org/pdf/2602.00971\"><strong>Project</strong></a> | <strong>ICLR</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-11",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ICLR</div><img src='../images/hitemotion.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning](https://arxiv.org/pdf/2602.00971)\n\n**Meng Luo**, Bobo Li, Shanqing Xu, ..., Hao Fei, Mong-Li Lee, Wynne Hsu\n\n[**Project**](https://arxiv.org/pdf/2602.00971) | <strong>ICLR</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-05",
-      "order": 5,
-      "group": "phd",
       "title": "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding",
-      "title_html": "<a href=\"https://link.springer.com/article/10.1007/s11263-026-02831-1\">Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding</a>",
-      "paper_url": "https://link.springer.com/article/10.1007/s11263-026-02831-1",
-      "authors": "Meng Luo, Shengqiong Wu, Liqiang Jing, …, Jiebo Luo, William Yang Wang, Hao Fei, Mong-Li Lee, Wynne Hsu",
       "authors_html": "<strong>Meng Luo</strong>, Shengqiong Wu, Liqiang Jing, …, Jiebo Luo, William Yang Wang, Hao Fei, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": true,
-      "image": "images/drv.png",
-      "image_original": "../images/drv.png",
+      "venue": "IJCV",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/drv.webp",
       "image_dimensions": {
         "width": 1798,
         "height": 516
       },
-      "image_alt_original": "sym",
-      "badge": "IJCV",
-      "venue": "IJCV",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://link.springer.com/article/10.1007/s11263-026-02831-1"
+        },
+        {
+          "label": "GitHub",
           "url": "https://github.com/Eurekaleo/Dr.V"
         }
-      ],
-      "meta_html": "<a href=\"https://github.com/Eurekaleo/Dr.V\"><strong>Project</strong></a> | <strong>IJCV</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-09",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">IJCV</div><img src='../images/drv.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](https://link.springer.com/article/10.1007/s11263-026-02831-1)\n\n**Meng Luo**, Shengqiong Wu, Liqiang Jing, ..., Jiebo Luo, William Yang Wang, Hao Fei, Mong-Li Lee, Wynne Hsu\n\n[**Project**](https://github.com/Eurekaleo/Dr.V) | <strong>IJCV</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-06",
-      "order": 6,
-      "group": "phd",
       "title": "RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding",
-      "title_html": "<a href=\"https://arxiv.org/abs/2608.29958v1\">RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding</a>",
-      "paper_url": "https://arxiv.org/abs/2608.29958v1",
-      "authors": "Shanqing Xu, Meng Luo, Mengchen Qian, …, Xiaojin Zhang, Zhongyu Wei, Wei Chen, Xiang Bai",
       "authors_html": "Shanqing Xu, <strong>Meng Luo</strong>, Mengchen Qian, …, Xiaojin Zhang, Zhongyu Wei, Wei Chen, Xiang Bai",
-      "authors_are_abbreviated": true,
-      "image": "images/ridge.png",
-      "image_original": "../images/ridge.png",
+      "venue": "EMNLP (Findings)",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/ridge.webp",
       "image_dimensions": {
         "width": 1976,
         "height": 1114
       },
-      "image_alt_original": "sym",
-      "badge": "EMNLP",
-      "venue": "EMNLP (Findings)",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2608.29958v1"
+        },
+        {
+          "label": "GitHub",
           "url": "https://github.com/Xssq999/RIDGE"
         }
       ],
-      "meta_html": "<a href=\"https://github.com/Xssq999/RIDGE\"><strong>Project</strong></a> | <strong>EMNLP (Findings)</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-04",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">EMNLP</div><img src='../images/ridge.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[RIDGE: Region-Informed Derivative-Guided Evidence Selection for Long Video Understanding](https://arxiv.org/abs/2608.29958v1)\n\nShanqing Xu, **Meng Luo**, Mengchen Qian, ..., Xiaojin Zhang, Zhongyu Wei, Wei Chen, Xiang Bai\n\n[**Project**](https://github.com/Xssq999/RIDGE) | <strong>EMNLP (Findings)</strong>\n</div>\n</div>"
+      "badge_venue": "EMNLP"
     },
     {
       "id": "paper-07",
-      "order": 7,
-      "group": "phd",
       "title": "No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2606.31933\">No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs</a>",
-      "paper_url": "https://arxiv.org/pdf/2606.31933",
-      "authors": "Haojian Huang, Harold Haodong Chen, Meng Luo, Junjia Du, Shanqing Xu, Ziheng Chen, Yanxiang Huang, Yinchuan Li, Ying-Cong Chen",
       "authors_html": "Haojian Huang, Harold Haodong Chen, <strong>Meng Luo</strong>, Junjia Du, Shanqing Xu, Ziheng Chen, Yanxiang Huang, Yinchuan Li, Ying-Cong Chen",
-      "authors_are_abbreviated": false,
-      "image": "images/noplace.png",
-      "image_original": "../images/noplace.png",
+      "venue": "ECCV",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/noplace.webp",
       "image_dimensions": {
         "width": 1111,
         "height": 501
       },
-      "image_alt_original": "sym",
-      "badge": "ECCV",
-      "venue": "ECCV",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/pdf/2606.31933"
+        },
+        {
+          "label": "Project Page",
           "url": "https://jethrojames.github.io/VidPair-Halluc/"
         }
-      ],
-      "meta_html": "<a href=\"https://jethrojames.github.io/VidPair-Halluc/\"><strong>Project</strong></a> | <strong>ECCV</strong>",
-      "year": 2026,
-      "year_source_news_id": "news-07",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ECCV</div><img src='../images/noplace.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs](https://arxiv.org/pdf/2606.31933)\n\nHaojian Huang, Harold Haodong Chen, **Meng Luo**, Junjia Du, Shanqing Xu, Ziheng Chen, Yanxiang Huang, Yinchuan Li, Ying-Cong Chen\n\n[**Project**](https://jethrojames.github.io/VidPair-Halluc/) | <strong>ECCV</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-08",
-      "order": 8,
-      "group": "phd",
       "title": "On Path to Multimodal Generalist: General-Level and General-Bench",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2505.04620\">On Path to Multimodal Generalist: General-Level and General-Bench</a>",
-      "paper_url": "https://arxiv.org/pdf/2505.04620",
-      "authors": "Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, …, Meng Luo, Jiebo Luo, Tat‑Seng Chua, Hanwang Zhang, Shuicheng Yan",
       "authors_html": "Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, …, <strong>Meng Luo</strong>, Jiebo Luo, Tat‑Seng Chua, Hanwang Zhang, Shuicheng Yan",
-      "authors_are_abbreviated": true,
-      "image": "images/generalist.png",
-      "image_original": "../images/generalist.png",
+      "venue": "ICML",
+      "year": 2025,
+      "recognitions": [
+        "Oral",
+        "Spotlight"
+      ],
+      "image": "assets/images/generalist.webp",
       "image_dimensions": {
         "width": 1258,
         "height": 842
       },
-      "image_alt_original": "sym",
-      "badge": "ICML",
-      "venue": "ICML (Oral, Spotlight)",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/pdf/2505.04620"
+        },
+        {
+          "label": "Project Page",
           "url": "https://generalist.top/"
         }
-      ],
-      "meta_html": "<a href=\"https://generalist.top/\"><strong>Project</strong></a> | <strong>ICML (Oral, Spotlight)</strong>",
-      "year": 2025,
-      "year_source_news_id": "news-17",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ICML</div><img src='../images/generalist.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/pdf/2505.04620)\n\nHao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, ..., **Meng Luo**, Jiebo Luo, Tat‑Seng Chua, Hanwang Zhang, Shuicheng Yan\n\n[**Project**](https://generalist.top/) | <strong>ICML (Oral, Spotlight)</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-09",
-      "order": 9,
-      "group": "phd",
       "title": "VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2504.13122\">VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</a>",
-      "paper_url": "https://arxiv.org/pdf/2504.13122",
-      "authors": "Haojian Huang, Haodong Chen, Shengqiong Wu, Meng Luo, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei",
       "authors_html": "Haojian Huang, Haodong Chen, Shengqiong Wu, <strong>Meng Luo</strong>, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei",
-      "authors_are_abbreviated": false,
-      "image": "images/vistadpo.png",
-      "image_original": "../images/vistadpo.png",
+      "venue": "ICML",
+      "year": 2025,
+      "recognitions": [],
+      "image": "assets/images/vistadpo.webp",
       "image_dimensions": {
         "width": 1836,
         "height": 808
       },
-      "image_alt_original": "sym",
-      "badge": "ICML",
-      "venue": "ICML",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/pdf/2504.13122"
+        },
+        {
+          "label": "GitHub",
           "url": "https://github.com/HaroldChen19/VistaDPO"
         }
-      ],
-      "meta_html": "<a href=\"https://github.com/HaroldChen19/VistaDPO\"><strong>Project</strong></a> | <strong>ICML</strong>",
-      "year": 2025,
-      "year_source_news_id": "news-18",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ICML</div><img src='../images/vistadpo.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models](https://arxiv.org/pdf/2504.13122)\n\nHaojian Huang, Haodong Chen, Shengqiong Wu, **Meng Luo**, Jinlan Fu, Xinya Du, Hanwang Zhang, Hao Fei\n\n[**Project**](https://github.com/HaroldChen19/VistaDPO) | <strong>ICML</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-10",
-      "order": 10,
-      "group": "phd",
       "title": "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2412.16953\">Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework</a>",
-      "paper_url": "https://arxiv.org/pdf/2412.16953",
-      "authors": "Jundong Xu, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu",
       "authors_html": "Jundong Xu, Hao Fei, <strong>Meng Luo</strong>, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": false,
-      "image": "images/Aristotle.png",
-      "image_original": "../images/Aristotle.png",
+      "venue": "ACL",
+      "year": 2025,
+      "recognitions": [
+        "Oral"
+      ],
+      "image": "assets/images/Aristotle.webp",
       "image_dimensions": {
         "width": 2104,
         "height": 832
       },
-      "image_alt_original": "sym",
-      "badge": "ACL",
-      "venue": "ACL (Oral)",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://arxiv.org/pdf/2412.16953"
+        },
+        {
+          "label": "GitHub",
           "url": "https://github.com/Aiden0526/Aristotle"
         }
-      ],
-      "meta_html": "<a href=\"https://github.com/Aiden0526/Aristotle\"><strong>Project</strong></a> | <strong>ACL (Oral)</strong>",
-      "year": 2025,
-      "year_source_news_id": "news-16",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ACL</div><img src='../images/Aristotle.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/pdf/2412.16953)\n\nJundong Xu, Hao Fei, **Meng Luo**, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu\n\n[**Project**](https://github.com/Aiden0526/Aristotle) | <strong>ACL (Oral)</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-11",
-      "order": 11,
-      "group": "masters",
       "title": "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis",
-      "title_html": "<a href=\"https://www.arxiv.org/pdf/2408.09481\">PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis</a>",
-      "paper_url": "https://www.arxiv.org/pdf/2408.09481",
-      "authors": "Meng Luo, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu",
       "authors_html": "<strong>Meng Luo</strong>, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": false,
-      "image": "images/panosent.png",
-      "image_original": "../images/panosent.png",
+      "venue": "ACM MM",
+      "year": 2024,
+      "recognitions": [
+        "Oral"
+      ],
+      "image": "assets/images/panosent.webp",
       "image_dimensions": {
         "width": 1120,
         "height": 1020
       },
-      "image_alt_original": "sym",
-      "badge": "ACM MM",
-      "venue": "ACM MM (Oral)",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
+          "url": "https://www.arxiv.org/pdf/2408.09481"
+        },
+        {
+          "label": "Project Page",
           "url": "https://panosent.github.io/"
         }
-      ],
-      "meta_html": "<a href=\"https://panosent.github.io/\"><strong>Project</strong></a> | <strong>ACM MM (Oral)</strong>",
-      "year": 2024,
-      "year_source_news_id": "news-26",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ACM MM</div><img src='../images/panosent.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n    \n[PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://www.arxiv.org/pdf/2408.09481)\n\n**Meng Luo**, Hao Fei, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu\n\n[**Project**](https://panosent.github.io/) | <strong>ACM MM (Oral)</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-12",
-      "order": 12,
-      "group": "masters",
       "title": "SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2410.10209v1\">SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning</a>",
-      "paper_url": "https://arxiv.org/pdf/2410.10209v1",
-      "authors": "Dong Huang, Guangtao Zeng, Jianbo Dai, Meng Luo, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang",
       "authors_html": "Dong Huang, Guangtao Zeng, Jianbo Dai, <strong>Meng Luo</strong>, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang",
-      "authors_are_abbreviated": false,
-      "image": "images/efficode.png",
-      "image_original": "../images/efficode.png",
+      "venue": "ICML",
+      "year": 2025,
+      "recognitions": [],
+      "image": "assets/images/efficode.webp",
       "image_dimensions": {
         "width": 1852,
         "height": 818
       },
-      "image_alt_original": "sym",
-      "badge": "ICML",
-      "venue": "ICML",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://arxiv.org/pdf/2410.10209v1"
         }
-      ],
-      "meta_html": "<a href=\"https://arxiv.org/pdf/2410.10209v1\"><strong>Project</strong></a> | <strong>ICML</strong>",
-      "year": 2025,
-      "year_source_news_id": "news-19",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ICML</div><img src='../images/efficode.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning](https://arxiv.org/pdf/2410.10209v1)\n\nDong Huang, Guangtao Zeng, Jianbo Dai, **Meng Luo**, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang\n\n[**Project**](https://arxiv.org/pdf/2410.10209v1) | <strong>ICML</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-13",
-      "order": 13,
-      "group": "masters",
       "title": "PAD: Personalized Alignment at Decoding-Time",
-      "title_html": "<a href=\"https://arxiv.org/pdf/2410.04070\">PAD: Personalized Alignment at Decoding-Time</a>",
-      "paper_url": "https://arxiv.org/pdf/2410.04070",
-      "authors": "Ruizhe Chen, Xiaotian Zhang, Meng Luo, Wenhao Chai, Zuozhu Liu",
       "authors_html": "Ruizhe Chen, Xiaotian Zhang, <strong>Meng Luo</strong>, Wenhao Chai, Zuozhu Liu",
-      "authors_are_abbreviated": false,
-      "image": "images/pad.png",
-      "image_original": "../images/pad.png",
+      "venue": "ICLR",
+      "year": 2025,
+      "recognitions": [],
+      "image": "assets/images/pad.webp",
       "image_dimensions": {
         "width": 2094,
         "height": 868
       },
-      "image_alt_original": "sym",
-      "badge": "ICLR",
-      "venue": "ICLR",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://arxiv.org/pdf/2410.04070"
         }
-      ],
-      "meta_html": "<a href=\"https://arxiv.org/pdf/2410.04070\"><strong>Project</strong></a> | <strong>ICLR</strong>",
-      "year": 2025,
-      "year_source_news_id": "news-22",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">ICLR</div><img src='../images/pad.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[PAD: Personalized Alignment at Decoding-Time](https://arxiv.org/pdf/2410.04070)\n\nRuizhe Chen, Xiaotian Zhang, **Meng Luo**, Wenhao Chai, Zuozhu Liu\n\n[**Project**](https://arxiv.org/pdf/2410.04070) | <strong>ICLR</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-14",
-      "order": 14,
-      "group": "masters",
       "title": "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark",
-      "title_html": "<a href=\"https://openreview.net/pdf?id=36Qk76s74U\">Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark</a>",
-      "paper_url": "https://openreview.net/pdf?id=36Qk76s74U",
-      "authors": "Han Zhang, Zixiang Meng, Meng Luo, Hong Han, Lizi Liao, Erik Cambria, Hao Fei",
       "authors_html": "Han Zhang, Zixiang Meng, <strong>Meng Luo</strong>, Hong Han, Lizi Liao, Erik Cambria, Hao Fei",
-      "authors_are_abbreviated": false,
-      "image": "images/MERG.png",
-      "image_original": "../images/MERG.png",
+      "venue": "WWW",
+      "year": 2025,
+      "recognitions": [],
+      "image": "assets/images/MERG.webp",
       "image_dimensions": {
         "width": 812,
         "height": 672
       },
-      "image_alt_original": "sym",
-      "badge": "WWW",
-      "venue": "WWW",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://openreview.net/pdf?id=36Qk76s74U"
         }
-      ],
-      "meta_html": "<a href=\"https://openreview.net/pdf?id=36Qk76s74U\"><strong>Project</strong></a> | <strong>WWW</strong>",
-      "year": 2025,
-      "year_source_news_id": "news-23",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">WWW</div><img src='../images/MERG.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark](https://openreview.net/pdf?id=36Qk76s74U)\n\nHan Zhang, Zixiang Meng, **Meng Luo**, Hong Han, Lizi Liao, Erik Cambria, Hao Fei\n\n[**Project**](https://openreview.net/pdf?id=36Qk76s74U) | <strong>WWW</strong>\n</div>\n</div>"
+      ]
     },
     {
       "id": "paper-15",
-      "order": 15,
-      "group": "masters",
       "title": "NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations",
-      "title_html": "<a href=\"https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf\">NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations</a>",
-      "paper_url": "https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf",
-      "authors": "Meng Luo, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, Hao Fei",
       "authors_html": "<strong>Meng Luo</strong>, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, Hao Fei",
-      "authors_are_abbreviated": false,
-      "image": "images/nus-emo.png",
-      "image_original": "../images/nus-emo.png",
+      "venue": "SemEval @ ACL",
+      "year": 2024,
+      "recognitions": [
+        "2nd Place"
+      ],
+      "image": "assets/images/nus-emo.webp",
       "image_dimensions": {
         "width": 870,
         "height": 556
       },
-      "image_alt_original": "sym",
-      "badge": "SemEval",
-      "venue": "SemEval@ACL (Challenge, 2nd Place) 2024",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf"
         }
       ],
-      "meta_html": "<a href=\"https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf\"><strong>Project</strong></a> | <strong> SemEval@ACL (Challenge, 2nd Place) 2024</strong>",
-      "year": 2024,
-      "year_source_news_id": "news-27",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">SemEval</div><img src='../images/nus-emo.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf)\n\n**Meng Luo**, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, Hao Fei\n\n[**Project**](https://www.researchgate.net/profile/Hao-Fei-2/publication/380361877_NUS-Emo_at_SemEval-2024_Task_3_Instruction-Tuning_LLM_for_Multimodal_Emotion-Cause_Analysis_in_Conversations/links/6638a9cf08aa54017ae02fa0/NUS-Emo-at-SemEval-2024-Task-3-Instruction-Tuning-LLM-for-Multimodal-Emotion-Cause-Analysis-in-Conversations.pdf) | <strong> SemEval@ACL (Challenge, 2nd Place) 2024</strong>\n</div>\n</div>"
+      "badge_venue": "SemEval"
     },
     {
       "id": "paper-16",
-      "order": 16,
-      "group": "masters",
       "title": "Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM",
-      "title_html": "<a href=\"https://dl.acm.org/doi/pdf/10.1145/3689090.3689388\">Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM</a>",
-      "paper_url": "https://dl.acm.org/doi/pdf/10.1145/3689090.3689388",
-      "authors": "Hao Fei, Meng Luo, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu",
       "authors_html": "Hao Fei, <strong>Meng Luo</strong>, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu",
-      "authors_are_abbreviated": false,
-      "image": "images/mmworkshop.png",
-      "image_original": "../images/mmworkshop.png",
+      "venue": "ACM MM Workshop",
+      "year": 2024,
+      "recognitions": [
+        "Best Paper Award"
+      ],
+      "image": "assets/images/mmworkshop.webp",
       "image_dimensions": {
         "width": 1540,
         "height": 642
       },
-      "image_alt_original": "sym",
-      "badge": "MM Workshop",
-      "venue": "Workshop@MM",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://dl.acm.org/doi/pdf/10.1145/3689090.3689388"
         }
       ],
-      "meta_html": "<a href=\"https://dl.acm.org/doi/pdf/10.1145/3689090.3689388\"><strong>Project</strong></a> | <strong>Workshop@MM</strong>",
-      "year": 2024,
-      "year_source_news_id": "news-25",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">MM Workshop</div><img src='../images/mmworkshop.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)\n\nHao Fei, **Meng Luo**, Jundong Xu, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu\n\n[**Project**](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388) | <strong>Workshop@MM</strong>\n</div>\n</div>"
+      "badge_venue": "ACM MMW"
     },
     {
       "id": "paper-17",
-      "order": 17,
-      "group": "masters",
       "title": "A Survey on Benchmarks of Multimodal Large Language Models",
-      "title_html": "<a href=\"https://arxiv.org/abs/2408.08632\">A Survey on Benchmarks of Multimodal Large Language Models</a>",
-      "paper_url": "https://arxiv.org/abs/2408.08632",
-      "authors": "Jian Li, Weiheng Lu, Hao Fei, Meng Luo, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang",
       "authors_html": "Jian Li, Weiheng Lu, Hao Fei, <strong>Meng Luo</strong>, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang",
-      "authors_are_abbreviated": false,
-      "image": "images/survey.png",
-      "image_original": "../images/survey.png",
+      "venue": "arXiv",
+      "year": 2024,
+      "recognitions": [],
+      "image": "assets/images/survey.webp",
       "image_dimensions": {
         "width": 1752,
         "height": 780
       },
-      "image_alt_original": "sym",
-      "badge": "arxiv",
-      "venue": "arxiv",
       "links": [
         {
-          "label": "Project",
+          "label": "Paper",
           "url": "https://arxiv.org/abs/2408.08632"
         }
-      ],
-      "meta_html": "<a href=\"https://arxiv.org/abs/2408.08632\"><strong>Project</strong></a> | <strong>arxiv</strong>",
-      "year": 2024,
-      "year_source_news_id": "news-24",
-      "original_markdown_block": "<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">arxiv</div><img src='../images/survey.png' alt=\"sym\" width=\"100%\"></div></div>\n<div class='paper-box-text' markdown=\"1\">\n  \n[A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)\n\nJian Li, Weiheng Lu, Hao Fei, **Meng Luo**, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang\n\n[**Project**](https://arxiv.org/abs/2408.08632) | <strong>arxiv</strong>\n</div>\n</div>"
+      ]
     }
   ],
-  "professional_activities": [
-    {
-      "id": "activity-01",
-      "text": "Research Intern with the Kling Team (25.06-26), mentored by Xintao Wang and Jiahao Wang.",
-      "html": "Research Intern with the Kling Team (25.06-26), mentored by <a href=\"https://xinntao.github.io/\">Xintao Wang</a> and Jiahao Wang.",
-      "links": [
-        {
-          "label": "Xintao Wang",
-          "url": "https://xinntao.github.io/"
-        }
-      ]
-    },
-    {
-      "id": "activity-02",
-      "text": "Committee Member, NICE Community.",
-      "html": "Committee Member, <a href=\"https://nice-intl.github.io/index.html\">NICE Community</a>.",
-      "links": [
-        {
-          "label": "NICE Community",
-          "url": "https://nice-intl.github.io/index.html"
-        }
-      ]
-    },
-    {
-      "id": "activity-03",
-      "text": "Reviewer for TPAMI, NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops.",
-      "html": "Reviewer for TPAMI, NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops.",
-      "links": []
-    }
-  ],
-  "honors": {
-    "period": "During Undergraduate",
-    "groups": [
-      {
-        "id": "academic-achievements",
-        "label": "Academic Achievements",
-        "items": [
-          {
-            "year": 2022,
-            "description": "Huawei Scholarship, Wuhan University (Top 5%)",
-            "text": "2022: Huawei Scholarship, Wuhan University (Top 5%)",
-            "html": "2022: Huawei Scholarship, Wuhan University (Top 5%)",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "First-class Excellence Scholarship, Wuhan University (Ranked 2nd)",
-            "text": "2021: First-class Excellence Scholarship, Wuhan University (Ranked 2nd)",
-            "html": "2021: First-class Excellence Scholarship, Wuhan University (Ranked 2nd)",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "Merit Student, Wuhan University (Top 10%)",
-            "text": "2021: Merit Student, Wuhan University (Top 10%)",
-            "html": "2021: Merit Student, Wuhan University (Top 10%)",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "Outstanding Student, Wuhan University",
-            "text": "2021: Outstanding Student, Wuhan University",
-            "html": "2021: Outstanding Student, Wuhan University",
-            "links": []
-          }
-        ]
-      },
-      {
-        "id": "competitions-and-recognitions",
-        "label": "Competitions and Recognitions",
-        "items": [
-          {
-            "year": 2022,
-            "description": "Silver Award, Hubei Challenge Cup, Wuhan University",
-            "text": "2022: Silver Award, Hubei Challenge Cup, Wuhan University",
-            "html": "2022: Silver Award, Hubei Challenge Cup, Wuhan University",
-            "links": []
-          },
-          {
-            "year": 2022,
-            "description": "Gold Award, Ziqiang Cup College, Wuhan University",
-            "text": "2022: Gold Award, Ziqiang Cup College, Wuhan University",
-            "html": "2022: Gold Award, Ziqiang Cup College, Wuhan University",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "National First Prize, Citi Cup Financial Innovation Application Contest",
-            "text": "2021: National First Prize, Citi Cup Financial Innovation Application Contest",
-            "html": "2021: National First Prize, Citi Cup Financial Innovation Application Contest",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "Bole Award, ByteTop Summit Project, ByteDance",
-            "text": "2021: Bole Award, ByteTop Summit Project, ByteDance",
-            "html": "2021: Bole Award, ByteTop Summit Project, ByteDance",
-            "links": []
-          },
-          {
-            "year": 2019,
-            "description": "Top 10 Book Ambassador, Wuhan University Library",
-            "text": "2019: Top 10 Book Ambassador, Wuhan University Library",
-            "html": "2019: Top 10 Book Ambassador, Wuhan University Library",
-            "links": []
-          },
-          {
-            "year": 2018,
-            "description": "The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP",
-            "text": "2018: The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP",
-            "html": "2018: The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP",
-            "links": []
-          }
-        ]
-      },
-      {
-        "id": "leadership-and-social-activities",
-        "label": "Leadership and Social Activities",
-        "items": [
-          {
-            "year": 2021,
-            "description": "Chairman, Wuhan University Campus Ambassador, ByteDance",
-            "text": "2021: Chairman, Wuhan University Campus Ambassador, ByteDance",
-            "html": "2021: Chairman, Wuhan University Campus Ambassador, ByteDance",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "Excellent Campus Ambassador, WePie Team",
-            "text": "2021: Excellent Campus Ambassador, WePie Team",
-            "html": "2021: Excellent Campus Ambassador, WePie Team",
-            "links": []
-          },
-          {
-            "year": 2021,
-            "description": "Online Course on Interdisciplinary Communication, University of Cambridge",
-            "text": "2021: Online Course on Interdisciplinary Communication, University of Cambridge",
-            "html": "2021: Online Course on Interdisciplinary Communication, University of Cambridge",
-            "links": []
-          }
-        ]
-      }
-    ]
-  },
-  "footer": {
-    "text": "Wisdom begins in wonder. 网罗天下，广结同盟。",
-    "html": "<i> Wisdom begins in wonder.   网罗天下，广结同盟。</i>",
-    "links": []
-  },
-  "audit": {
-    "counts": {
-      "publications": 17,
-      "news": 28,
-      "professional_activities": 3,
-      "honors": 13
-    },
-    "missing_navigation_anchors": [
-      {
-        "label": "Experience",
-        "url": "/#-internships"
-      }
-    ],
-    "images_missing": [],
-    "external_links_network_checked": false,
-    "notes": [
-      {
-        "id": "clovr-link",
-        "severity": "content-confirmation",
-        "detail": "首篇 CLoVR 标题无论文链接，Project 指向个人主页本身，原样保留，未推断新链接。"
-      },
-      {
-        "id": "publication-years",
-        "severity": "provenance",
-        "detail": "year 仅由现有 News 中匹配论文条目的年份提取，并保留 year_source_news_id。论文区多数 venue 原文不含年份。"
-      },
-      {
-        "id": "generalist-title",
-        "severity": "content-confirmation",
-        "detail": "Generalist 在 News 使用 Levels and Benchmarks，在 Publications 使用 General-Level and General-Bench；各自保留。"
-      },
-      {
-        "id": "nexus-title",
-        "severity": "content-confirmation",
-        "detail": "Nexus 新闻标题末尾为 Synthesi，疑似少一个 s；未擅自补全。"
-      },
-      {
-        "id": "internship-dates",
-        "severity": "content-confirmation",
-        "detail": "Research Intern 日期原文为 (25.06-26)，未解释为确定结束年月。"
-      },
-      {
-        "id": "authors",
-        "severity": "preservation",
-        "detail": "四篇论文作者列表含原始省略号（Cognitive Compass、Dr.V、RIDGE、Generalist），未补全作者。"
-      },
-      {
-        "id": "project-label",
-        "severity": "content-confirmation",
-        "detail": "七个 Project 链接实际与论文链接相同（其中 6 个是 PDF），原始标签与 URL 保留，预览可按 URL 类型呈现 Paper。"
-      },
-      {
-        "id": "extra-news",
-        "severity": "preservation",
-        "detail": "部分论文或活动仅在 News 出现，没有完整 publication 条目；没有据此虚构论文图、作者、链接。"
-      },
-      {
-        "id": "smart-punctuation",
-        "severity": "provenance",
-        "detail": "text/html 对应已渲染的线上内容（Jekyll 将 ...、直引号变为省略号与弯引号）；每篇另附 original_markdown_block 保留仓库原文。"
-      }
-    ]
-  },
-  "revision": {
-    "name": "V5.1 · Reference-aligned refinements",
-    "date": "2026-09-29",
-    "base": "original site + first refinement",
-    "reference": "https://yujiwen.github.io/"
-  },
   "professional_experience": [
     {
       "id": "tencent",
@@ -1213,10 +637,8 @@
       "location": "Singapore",
       "role": "Multi-Modality Research Intern",
       "program": "青云计划",
-      "start": "2026-10",
       "date_label": "Starting October 2026",
-      "logo": "assets/logos/tencent.png",
-      "upcoming": true
+      "logo": "assets/logos/tencent.png"
     },
     {
       "id": "kling",
@@ -1236,5 +658,87 @@
       "date_label": "",
       "logo": "assets/logos/nice.png"
     }
-  ]
+  ],
+  "academic_service": [
+    "Reviewer for TPAMI, NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, ACM MM, AAAI, WWW, ECCV, EMNLP, Neurocomputing, ACM TOMM, KBS, ACM TALLIP, and various workshops."
+  ],
+  "honors": {
+    "period": "During my undergraduate studies",
+    "groups": [
+      {
+        "id": "academic-achievements",
+        "label": "Academic Achievements",
+        "items": [
+          {
+            "year": 2022,
+            "description": "Huawei Scholarship, Wuhan University (Top 5%)"
+          },
+          {
+            "year": 2021,
+            "description": "First-class Excellence Scholarship, Wuhan University (Ranked 2nd)"
+          },
+          {
+            "year": 2021,
+            "description": "Merit Student, Wuhan University (Top 10%)"
+          },
+          {
+            "year": 2021,
+            "description": "Outstanding Student, Wuhan University"
+          }
+        ]
+      },
+      {
+        "id": "competitions-and-recognitions",
+        "label": "Competitions and Recognitions",
+        "items": [
+          {
+            "year": 2022,
+            "description": "Silver Award, Hubei Challenge Cup, Wuhan University"
+          },
+          {
+            "year": 2022,
+            "description": "Gold Award, Ziqiang Cup College, Wuhan University"
+          },
+          {
+            "year": 2021,
+            "description": "National First Prize, Citi Cup Financial Innovation Application Contest"
+          },
+          {
+            "year": 2021,
+            "description": "Bole Award, ByteTop Summit Project, ByteDance"
+          },
+          {
+            "year": 2019,
+            "description": "Top 10 Book Ambassador, Wuhan University Library"
+          },
+          {
+            "year": 2018,
+            "description": "The First Prize, HP Dream Factory Innovation Hackathon Wuhan Station, HP"
+          }
+        ]
+      },
+      {
+        "id": "leadership-and-social-activities",
+        "label": "Leadership and Social Activities",
+        "items": [
+          {
+            "year": 2021,
+            "description": "Chairman, Wuhan University Campus Ambassador, ByteDance"
+          },
+          {
+            "year": 2021,
+            "description": "Excellent Campus Ambassador, WePie Team"
+          },
+          {
+            "year": 2021,
+            "description": "Online Course on Interdisciplinary Communication, University of Cambridge"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "text": "Wisdom begins in wonder.",
+    "text_zh": "网罗天下，广结同盟。"
+  }
 }

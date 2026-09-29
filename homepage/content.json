@@ -312,7 +312,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2609.11242"
+          "url": "https://arxiv.org/abs/2609.11242"
         },
         {
           "label": "Dataset",
@@ -335,7 +335,11 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2602.00971"
+          "url": "https://arxiv.org/abs/2602.00971"
+        },
+        {
+          "label": "Project Page",
+          "url": "https://hitemotion.github.io/"
         }
       ]
     },
@@ -387,6 +391,26 @@
       "badge_venue": "EMNLP"
     },
     {
+      "id": "paper-omnihallu",
+      "title": "OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models",
+      "authors_html": "Jianjiang Yang, Peihang Li, Shanqing Xu, Mengchen Qian, Lu Zhang, <strong>Meng Luo</strong>",
+      "venue": "EMNLP (Findings)",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/OmniHallu.png",
+      "image_dimensions": {
+        "width": 2230,
+        "height": 592
+      },
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2609.11244"
+        }
+      ],
+      "badge_venue": "EMNLP"
+    },
+    {
       "id": "paper-07",
       "title": "No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs",
       "authors_html": "Haojian Huang, Harold Haodong Chen, <strong>Meng Luo</strong>, Junjia Du, Shanqing Xu, Ziheng Chen, Yanxiang Huang, Yinchuan Li, Ying-Cong Chen",
@@ -401,7 +425,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2606.31933"
+          "url": "https://arxiv.org/abs/2606.31933"
         },
         {
           "label": "Project Page",
@@ -427,7 +451,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2505.04620"
+          "url": "https://arxiv.org/abs/2505.04620"
         },
         {
           "label": "Project Page",
@@ -450,7 +474,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2504.13122"
+          "url": "https://arxiv.org/abs/2504.13122"
         },
         {
           "label": "GitHub",
@@ -475,7 +499,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2412.16953"
+          "url": "https://arxiv.org/abs/2412.16953"
         },
         {
           "label": "GitHub",
@@ -500,7 +524,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://www.arxiv.org/pdf/2408.09481"
+          "url": "https://arxiv.org/abs/2408.09481"
         },
         {
           "label": "Project Page",
@@ -523,7 +547,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2410.10209v1"
+          "url": "https://arxiv.org/abs/2410.10209v1"
         }
       ]
     },
@@ -542,7 +566,7 @@
       "links": [
         {
           "label": "Paper",
-          "url": "https://arxiv.org/pdf/2410.04070"
+          "url": "https://arxiv.org/abs/2410.04070"
         }
       ]
     },

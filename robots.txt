@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /_pages/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_sass/
+Disallow: /homepage/build.py
+Disallow: /homepage/content.json
+Sitemap: https://eurekaleo.github.io/sitemap.xml

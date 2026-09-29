@@ -34,12 +34,12 @@
   },
   "intro": {
     "paragraphs_html": [
-      "I am a computer science PhD student at the School of Computing, <strong>National University of Singapore</strong>. I am supervised by Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/leeml/\">Mong-Li Lee</a> and Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/whsu/\">Wynne Hsu</a> at Center for Trusted Internet and Community (CTIC), and I also work with Dr. <a href=\"https://haofei.vip/\">Hao Fei</a>, Dr. <a href=\"https://sqwu.top/\">Shengqiong Wu</a>, Dr. <a href=\"https://www.libobo.site/\">Bobo Li</a>, Dr. <a href=\"https://daniellin97.github.io/\">Hongzhan Lin</a> and Dr. <a href=\"https://jometeorie.github.io/\">Tianjie Ju</a>.",
+      "I am a computer science PhD student at the School of Computing, <strong>National University of Singapore</strong>. I am supervised by Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/leeml/\">Mong-Li Lee</a> (Director of CTIC) and Prof. <a href=\"https://www.comp.nus.edu.sg/cs/people/whsu/\">Wynne Hsu</a> (Director of IDS) at Center for Trusted Internet and Community (CTIC), and I also work with Dr. <a href=\"https://haofei.vip/\">Hao Fei</a>, Dr. <a href=\"https://sqwu.top/\">Shengqiong Wu</a>, Dr. <a href=\"https://www.libobo.site/\">Bobo Li</a>, Dr. <a href=\"https://daniellin97.github.io/\">Hongzhan Lin</a> and Dr. <a href=\"https://jometeorie.github.io/\">Tianjie Ju</a>.",
       "Prior to this, I received my master’s degree from <strong>NUS</strong> and my bachelor’s degree from <strong>Wuhan University</strong>, where I also completed a minor in Business Administration as part of the Ziqiang Entrepreneurship Program."
     ],
     "research_prefix": "My research interest includes",
     "research_statement": "Bridging Physical and Mental Worlds toward Human-Like Intelligence through Multimodal (Video) Understanding, Reasoning, and Generation.",
-    "contact_prefix": "I am always exploring new collaboration opportunities. If you are interested in these topics, please feel free to email me at",
+    "contact_prefix": "I am always exploring new collaboration opportunities. I am always happy to discuss potential collaborations — feel free to drop me an email at.",
     "contact_suffix": "."
   },
   "labels": {
@@ -637,14 +637,14 @@
       "location": "Singapore",
       "role": "Multi-Modality Research Intern",
       "program": "青云计划",
-      "date_label": "Starting October 2026",
+      "date_label": "2026",
       "logo": "assets/logos/tencent.png"
     },
     {
       "id": "kling",
       "organization": "Kling Team",
       "url": "https://klingai.com/",
-      "role": "Research Intern",
+      "role": "Video Generation Algorithm Research Intern",
       "date_label": "June 2025 – 2026",
       "date_source": "25.06-26",
       "logo": "assets/logos/kling.png",
@@ -655,7 +655,7 @@
       "organization": "NICE Community",
       "url": "https://nice-intl.github.io/index.html",
       "role": "Committee Member",
-      "date_label": "",
+      "date_label": "2025 – now",
       "logo": "assets/logos/nice.png"
     }
   ],

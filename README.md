@@ -4,4 +4,4 @@ Personal academic website of Meng Luo.
 
 [Visit the website](https://eurekaleo.github.io/)
 
-Based on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), with publication layout and typography inspired by [Jiwen Yu’s homepage](https://yujiwen.github.io/).
+Based on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).

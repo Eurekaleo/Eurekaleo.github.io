@@ -62,17 +62,24 @@
   "news": [
     {
       "id": "news-01",
-      "date": "2026.09",
-      "headline": "Accepted at NeurIPS 2026",
-      "title": "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs",
-      "url": null
+      "date": "2026.10",
+      "headline": "Will Release a Survey on Physical RSI",
+      "title": "Awesome-Physical2RSI",
+      "url": "https://github.com/Eurekaleo/Awesome-Physical2RSI"
+    },
+    {
+      "id": "news-02",
+      "date": "2026.10",
+      "headline": "Will Release a Survey on Video World Model",
+      "title": "Awesome-Video-World-Model",
+      "url": "https://github.com/Eurekaleo/Awesome-Video-World-Model"
     },
     {
       "id": "news-02",
       "date": "2026.09",
-      "headline": "Will Release a Survey on Video World Model",
-      "title": "Awesome-Video-World-Model",
-      "url": "https://github.com/Eurekaleo/Awesome-Video-World-Model"
+      "headline": "Accepted at NeurIPS 2026",
+      "title": "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs",
+      "url": null
     },
     {
       "id": "news-03",

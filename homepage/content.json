@@ -63,16 +63,16 @@
     {
       "id": "news-01",
       "date": "2026.10",
-      "headline": "Will Release a Survey on Physical RSI",
-      "title": "Awesome-Physical2RSI",
-      "url": "https://physical2rsi.github.io/"
+      "headline": "Will Release a Survey on Video World Model",
+      "title": "Awesome-Video-World-Model",
+      "url": "https://vid-gen.github.io/video-world-model-survey/"
     },
     {
       "id": "news-02",
       "date": "2026.10",
-      "headline": "Will Release a Survey on Video World Model",
-      "title": "Awesome-Video-World-Model",
-      "url": "https://vid-gen.github.io/video-world-model-survey/"
+      "headline": "Release a Survey on Physical RSI",
+      "title": "Awesome-Physical2RSI",
+      "url": "https://physical2rsi.github.io/"
     },
     {
       "id": "news-neurips-2026",

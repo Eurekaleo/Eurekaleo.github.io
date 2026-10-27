@@ -271,7 +271,7 @@
       "authors_html": "<span class=\"equal-contributor\">Shengqiong Wu<sup title=\"Co-first author (equal contribution)\" aria-label=\"Co-first author\">*</sup></span>, <span class=\"equal-contributor\"><strong>Meng Luo</strong><sup title=\"Co-first author (equal contribution)\" aria-label=\"Co-first author\">*</sup></span>, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, Hao Fei <span class=\"contribution-note\">(* Equal contribution)</span>",
       "venue": "arXiv",
       "year": 2026,
-      "recognitions": [],
+      "recognitions": [HF Daily Paper #2],
       "image": "assets/images/video-world-model.png",
       "image_dimensions": {
         "width": 1784,

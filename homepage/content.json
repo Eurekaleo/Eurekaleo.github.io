@@ -183,7 +183,7 @@
       "id": "news-17",
       "date": "2025.05",
       "headline": "Accepted at ICML 2025 (Oral, Spotlight)",
-      "title": "On Path to Multimodal Generalist: Levels and Benchmarks",
+      "title": "On Path to Multimodal Generalist: General-Level and General-Bench",
       "url": null
     },
     {
@@ -197,7 +197,7 @@
       "id": "news-19",
       "date": "2025.05",
       "headline": "Accepted at ICML 2025",
-      "title": "SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
+      "title": "EffiCoder: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
       "url": null
     },
     {
@@ -589,7 +589,7 @@
     },
     {
       "id": "paper-12",
-      "title": "SWIFTCODE: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
+      "title": "EffiCoder: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning",
       "authors_html": "Dong Huang, Guangtao Zeng, Jianbo Dai, <strong>Meng Luo</strong>, Han Weng, Yuhao Qing, Heming Cui, Zhijiang Guo, Jie M. Zhang",
       "venue": "ICML",
       "year": 2025,

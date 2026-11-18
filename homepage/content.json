@@ -61,6 +61,13 @@
   },
   "news": [
     {
+      "id": "news-physical-world-agent",
+      "date": "2026.11",
+      "headline": "Release a Survey on Physical World Agents",
+      "title": "When the World Is the Test Suite: Agentic Intelligence for the Physical World",
+      "url": "https://physicalworldagent.github.io/"
+    },
+    {
       "id": "news-01",
       "date": "2026.10",
       "headline": "Release a Survey on Video World Model",
@@ -265,6 +272,33 @@
     }
   ],
   "publications": [
+    {
+      "id": "paper-physical-world-agent",
+      "title": "When the World Is the Test Suite: Agentic Intelligence for the Physical World",
+      "authors_html": "Kaixin Li, <strong>Meng Luo</strong>, Yanlin Li, Yuchen Tian, Xiang Liu, Xiangru Jian, Yan Yang, Zhiheng Xi, Yang Zhang, Ziyang Luo, Mingfei Cheng, Hongzhan Lin",
+      "venue": "arXiv",
+      "year": 2026,
+      "recognitions": [],
+      "image": "assets/images/physical-world-agent.webp",
+      "image_dimensions": {
+        "width": 1902,
+        "height": 690
+      },
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2611.22291"
+        },
+        {
+          "label": "Project Page",
+          "url": "https://physicalworldagent.github.io/"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/PhysicalWorldAgent/Awesome-PhysicalWorldAgent"
+        }
+      ]
+    },
     {
       "id": "paper-video-world-model",
       "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
